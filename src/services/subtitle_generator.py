@@ -61,43 +61,32 @@ class SubtitleGenerator:
         translated_text: str
     ) -> List[Dict[str, Any]]:
         """
-        Dopasuj przetłumaczony tekst do segmentów czasowych zachowując dokładną synchronizację
+        Dopasuj przetłumaczony tekst do segmentów czasowych
+        
+        Args:
+            segments: Segmenty z timestampami
+            translated_text: Przetłumaczony tekst
+            
+        Returns:
+            Lista segmentów z przetłumaczonym tekstem
         """
-        # Podziel tekst na słowa
-        words = translated_text.split()
+        # Podziel przetłumaczony tekst na zdania
+        sentences = self._split_into_sentences(translated_text)
         
-        # Oblicz ile słów przypada na każdy segment
-        words_per_segment = len(words) / len(segments) if segments else 0
+        # Jeśli liczba zdań nie odpowiada liczbie segmentów, użyj prostego podziału
+        if len(sentences) != len(segments):
+            logger.warning(f"Liczba zdań ({len(sentences)}) nie odpowiada liczbie segmentów ({len(segments)})")
+            sentences = self._redistribute_text(translated_text, len(segments))
         
+        # Stwórz nowe segmenty z przetłumaczonym tekstem
         aligned_segments = []
-        word_index = 0
-        
         for i, segment in enumerate(segments):
-            # Zachowaj DOKŁADNIE oryginalne timestampy z AssemblyAI
-            start_time = segment.get('start', 0)
-            end_time = segment.get('end', 0)
-            
-            # Oblicz które słowa należą do tego segmentu
-            if i == len(segments) - 1:
-                # Ostatni segment - weź wszystkie pozostałe słowa
-                segment_words = words[word_index:]
-            else:
-                # Oblicz końcowy indeks dla tego segmentu
-                end_word_index = min(len(words), int((i + 1) * words_per_segment))
-                segment_words = words[word_index:end_word_index]
-                word_index = end_word_index
-            
-            # Stwórz tekst dla tego segmentu
-            segment_text = ' '.join(segment_words).strip()
-            
-            # Dodaj segment z oryginalnymi timestampami
-            aligned_segments.append({
-                'start': start_time,
-                'end': end_time,
-                'text': segment_text,
-                'confidence': segment.get('confidence', 0.9),
-                'speaker': segment.get('speaker', 'A')
-            })
+            if i < len(sentences):
+                aligned_segments.append({
+                    'start': segment.get('start', 0),
+                    'end': segment.get('end', 0),
+                    'text': sentences[i].strip()
+                })
         
         return aligned_segments
     

@@ -52,11 +52,11 @@ class TranscriptionService:
                 language_detection=language == 'auto',
                 punctuate=True,
                 format_text=True,
-                speaker_labels=False,  # Można włączyć dla rozpoznawania mówców
+                speaker_labels=False,  # Wyłącz dla uzyskania optymalnych segmentów
                 auto_highlights=quality == 'premium',
                 sentiment_analysis=quality == 'premium',
                 entity_detection=quality == 'premium',
-                word_boost=[],  # Można dodać słowa do wzmocnienia
+                word_boost=[],
                 boost_param='default'
             )
             
@@ -153,13 +153,38 @@ class TranscriptionService:
                     'speaker': getattr(utterance, 'speaker', 'A')
                 })
         elif hasattr(transcript, 'words') and transcript.words:
-            # Użyj słów bezpośrednio jako segmentów dla idealnej synchronizacji
+            # Jeśli mamy tylko słowa, grupuj je w segmenty
+            current_segment = []
+            segment_start = None
+            segment_end = None
+            
             for word in transcript.words:
+                if segment_start is None:
+                    segment_start = word.start / 1000.0
+                
+                current_segment.append(word.text)
+                segment_end = word.end / 1000.0
+                
+                # Utwórz nowy segment co ~5 sekund lub po 10 słowach
+                if (segment_end - segment_start > 5.0) or (len(current_segment) >= 10):
+                    segments.append({
+                        'text': ' '.join(current_segment),
+                        'start': segment_start,
+                        'end': segment_end,
+                        'confidence': word.confidence,
+                        'speaker': 'A'
+                    })
+                    
+                    current_segment = []
+                    segment_start = None
+            
+            # Dodaj ostatni segment jeśli istnieje
+            if current_segment:
                 segments.append({
-                    'text': word.text,
-                    'start': word.start / 1000.0,  # Konwersja z ms na sekundy
-                    'end': word.end / 1000.0,
-                    'confidence': word.confidence,
+                    'text': ' '.join(current_segment),
+                    'start': segment_start,
+                    'end': segment_end,
+                    'confidence': 0.9,  # Domyślna pewność
                     'speaker': 'A'
                 })
         else:
