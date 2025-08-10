@@ -1,0 +1,126 @@
+2025-08-10 20:24:39 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpl5l1xqbc.wav
+2025-08-10 20:24:39 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpl5l1xqbc.wav
+2025-08-10 20:24:39 - src.services.transcription_service - ERROR - Błąd podczas transkrypcji: module 'httpx._client' has no attribute 'USER_AGENT'
+2025-08-10 20:24:39 - src.app - ERROR - Błąd podczas przetwarzania: Nie można przeprowadzić transkrypcji: module 'httpx._client' has no attribute 'USER_AGENT'
+2025-08-10 20:24:39 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-10 20:24:44 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpuzcx4gs_.wav
+2025-08-10 20:24:44 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpuzcx4gs_.wav
+2025-08-10 20:24:44 - src.services.transcription_service - ERROR - Błąd podczas transkrypcji: module 'httpx._client' has no attribute 'USER_AGENT'
+2025-08-10 20:24:44 - src.app - ERROR - Błąd podczas przetwarzania: Nie można przeprowadzić transkrypcji: module 'httpx._client' has no attribute 'USER_AGENT'
+2025-08-10 20:24:44 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-10 20:25:28 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpdv1sur76.wav
+2025-08-10 20:25:29 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpdv1sur76.wav
+2025-08-10 20:25:29 - src.services.transcription_service - ERROR - Błąd podczas transkrypcji: module 'httpx._client' has no attribute 'USER_AGENT'
+2025-08-10 20:25:29 - src.app - ERROR - Błąd podczas przetwarzania: Nie można przeprowadzić transkrypcji: module 'httpx._client' has no attribute 'USER_AGENT'
+2025-08-10 20:25:29 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-10 20:30:49 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpemfd15a0.wav
+2025-08-10 20:30:49 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpemfd15a0.wav
+2025-08-10 20:30:49 - src.services.transcription_service - ERROR - Błąd podczas transkrypcji: module 'httpx._client' has no attribute 'USER_AGENT'
+2025-08-10 20:30:49 - src.app - ERROR - Błąd podczas przetwarzania: Nie można przeprowadzić transkrypcji: module 'httpx._client' has no attribute 'USER_AGENT'
+2025-08-10 20:30:49 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-10 20:32:43 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpwf1ov3ev.wav
+2025-08-10 20:32:43 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpwf1ov3ev.wav
+2025-08-10 20:33:03 - src.services.transcription_service - ERROR - Błąd podczas transkrypcji: 'Transcript' object has no attribute 'language_code'
+2025-08-10 20:33:03 - src.app - ERROR - Błąd podczas przetwarzania: Nie można przeprowadzić transkrypcji: 'Transcript' object has no attribute 'language_code'
+2025-08-10 20:33:03 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-10 20:34:46 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpcvdbnjru.wav
+2025-08-10 20:34:46 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpcvdbnjru.wav
+2025-08-10 20:35:07 - src.services.transcription_service - ERROR - Błąd podczas transkrypcji: 'Transcript' object has no attribute 'language_code'
+2025-08-10 20:35:07 - src.app - ERROR - Błąd podczas przetwarzania: Nie można przeprowadzić transkrypcji: 'Transcript' object has no attribute 'language_code'
+2025-08-10 20:35:07 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-10 20:37:48 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-10 20:37:49 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-10 20:37:49 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 20 znaków
+2025-08-10 20:38:09 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpi91r0i9f.wav
+2025-08-10 20:38:10 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpi91r0i9f.wav
+2025-08-10 20:38:26 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 2145 znaków
+2025-08-10 20:38:26 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: EN
+2025-08-10 20:38:26 - src.services.translation_service - ERROR - Błąd podczas tłumaczenia: target_lang="EN" is deprecated, please use "EN-GB" or "EN-US"instead.
+2025-08-10 20:38:26 - src.app - ERROR - Błąd podczas przetwarzania: Nie można przetłumaczyć tekstu: target_lang="EN" is deprecated, please use "EN-GB" or "EN-US"instead.
+2025-08-10 20:38:26 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-10 20:38:38 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-10 20:38:38 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-10 20:38:38 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 20 znaków
+2025-08-10 20:42:22 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-10 20:42:22 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-10 20:42:22 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 20 znaków
+2025-08-10 20:42:36 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpk_1ghyji.wav
+2025-08-10 20:42:36 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpk_1ghyji.wav
+2025-08-10 20:42:57 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 2145 znaków
+2025-08-10 20:42:58 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: EN
+2025-08-10 20:42:58 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-10 20:42:58 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 2145 znaków
+2025-08-10 20:42:58 - src.services.subtitle_generator - WARNING - Liczba zdań (49) nie odpowiada liczbie segmentów (38)
+2025-08-10 20:42:58 - src.services.video_processor - ERROR - Błąd podczas dodawania napisów do wideo: ffmpeg error (see stderr output for detail)
+2025-08-10 20:42:58 - src.app - ERROR - Błąd podczas przetwarzania: Nie można dodać napisów do wideo: ffmpeg error (see stderr output for detail)
+2025-08-10 20:42:58 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-10 20:45:34 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmp59ytt2h1.wav
+2025-08-10 20:45:34 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmp59ytt2h1.wav
+2025-08-10 20:45:41 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 2145 znaków
+2025-08-10 20:45:41 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: EN
+2025-08-10 20:45:41 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-10 20:45:41 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 2145 znaków
+2025-08-10 20:45:41 - src.services.subtitle_generator - WARNING - Liczba zdań (49) nie odpowiada liczbie segmentów (38)
+2025-08-10 20:45:55 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmp59ytt2h1.mp4
+2025-08-10 20:45:55 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-10 20:54:49 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmp55c3n7gk.wav
+2025-08-10 20:54:49 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmp55c3n7gk.wav
+2025-08-10 20:54:56 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 2145 znaków
+2025-08-10 20:54:56 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-10 20:54:57 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-10 20:54:57 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 2139 znaków
+2025-08-10 20:54:57 - src.services.subtitle_generator - WARNING - Liczba zdań (49) nie odpowiada liczbie segmentów (38)
+2025-08-10 20:55:11 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmp55c3n7gk.mp4
+2025-08-10 20:55:11 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-10 20:58:13 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmp0w4lkvd9.wav
+2025-08-10 20:58:13 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmp0w4lkvd9.wav
+2025-08-10 20:58:29 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 2145 znaków
+2025-08-10 20:58:29 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-10 20:58:29 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-10 20:58:29 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 2144 znaków
+2025-08-10 20:58:29 - src.services.subtitle_generator - INFO - Grupowanie 49 zdań w 38 segmentów
+2025-08-10 20:58:43 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmp0w4lkvd9.mp4
+2025-08-10 20:58:43 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-10 21:02:09 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpec66mgo4.wav
+2025-08-10 21:02:09 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpec66mgo4.wav
+2025-08-10 21:02:27 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 2145 znaków
+2025-08-10 21:02:27 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-10 21:02:28 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-10 21:02:28 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 2139 znaków
+2025-08-10 21:02:28 - src.services.subtitle_generator - INFO - Grupowanie 49 zdań w 38 segmentów
+2025-08-10 21:02:42 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmpec66mgo4.mp4
+2025-08-10 21:02:42 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-10 21:03:23 - src.services.subtitle_generator - INFO - Grupowanie 1 zdań w 4 segmentów
+2025-08-10 21:04:28 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpu7v4dbhp.wav
+2025-08-10 21:04:28 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpu7v4dbhp.wav
+2025-08-10 21:04:59 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 2145 znaków
+2025-08-10 21:04:59 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-10 21:04:59 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-10 21:04:59 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 2139 znaków
+2025-08-10 21:05:13 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmpu7v4dbhp.mp4
+2025-08-10 21:05:13 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-10 21:07:17 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmp05s96mf3.wav
+2025-08-10 21:07:17 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmp05s96mf3.wav
+2025-08-10 21:07:37 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 2145 znaków
+2025-08-10 21:07:37 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-10 21:07:38 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-10 21:07:38 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 2139 znaków
+2025-08-10 21:07:52 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmp05s96mf3.mp4
+2025-08-10 21:07:52 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-10 21:09:51 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmp0bin8djl.wav
+2025-08-10 21:09:51 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmp0bin8djl.wav
+2025-08-10 21:10:03 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 2145 znaków
+2025-08-10 21:10:03 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-10 21:10:04 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-10 21:10:04 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 2144 znaków
+2025-08-10 21:10:04 - src.services.subtitle_generator - WARNING - Liczba zdań (49) nie odpowiada liczbie segmentów (38)
+2025-08-10 21:10:18 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmp0bin8djl.mp4
+2025-08-10 21:10:18 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-10 21:13:16 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmphq8xn6k5.wav
+2025-08-10 21:13:16 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmphq8xn6k5.wav
+2025-08-10 21:13:23 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 2145 znaków
+2025-08-10 21:13:23 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-10 21:13:24 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-10 21:13:24 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 2139 znaków
+2025-08-10 21:13:39 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmphq8xn6k5.mp4
+2025-08-10 21:13:39 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
