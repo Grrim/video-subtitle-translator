@@ -82,10 +82,25 @@ class SubtitleGenerator:
         aligned_segments = []
         for i, segment in enumerate(segments):
             if i < len(sentences):
+                start_time = segment.get('start', 0)
+                end_time = segment.get('end', 0)
+                text = sentences[i].strip()
+                
+                # Dodaj minimalny czas wyświetlania dla czytelności (minimum 1.5s)
+                min_duration = 1.5
+                if (end_time - start_time) < min_duration:
+                    # Sprawdź czy można przedłużyć bez nakładania na następny segment
+                    if i < len(segments) - 1:
+                        next_start = segments[i + 1].get('start', 0)
+                        max_end = next_start - 0.3  # 0.3s przerwy
+                        end_time = min(start_time + min_duration, max_end)
+                    else:
+                        end_time = start_time + min_duration
+                
                 aligned_segments.append({
-                    'start': segment.get('start', 0),
-                    'end': segment.get('end', 0),
-                    'text': sentences[i].strip()
+                    'start': start_time,
+                    'end': end_time,
+                    'text': text
                 })
         
         return aligned_segments

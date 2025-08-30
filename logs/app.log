@@ -124,3 +124,1165 @@
 2025-08-10 21:13:24 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 2139 znaków
 2025-08-10 21:13:39 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmphq8xn6k5.mp4
 2025-08-10 21:13:39 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-10 21:19:47 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpt1gy1upw.wav
+2025-08-10 21:19:47 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpt1gy1upw.wav
+2025-08-10 21:19:55 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 2145 znaków
+2025-08-10 21:19:55 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-10 21:19:56 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-10 21:19:56 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 2139 znaków
+2025-08-10 21:20:10 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmpt1gy1upw.mp4
+2025-08-10 21:20:10 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-10 21:22:12 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmptobft17b.wav
+2025-08-10 21:22:12 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmptobft17b.wav
+2025-08-10 21:22:35 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 2145 znaków
+2025-08-10 21:22:35 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-10 21:22:36 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-10 21:22:36 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 2144 znaków
+2025-08-10 21:22:45 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpesadrun_.wav
+2025-08-10 21:22:46 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpesadrun_.wav
+2025-08-10 21:22:50 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmptobft17b.mp4
+2025-08-10 21:23:05 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 2145 znaków
+2025-08-10 21:23:06 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-10 21:23:08 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-10 21:23:08 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 2144 znaków
+2025-08-10 21:23:22 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmpesadrun_.mp4
+2025-08-10 21:23:22 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-10 21:23:40 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmp606sn69j.wav
+2025-08-10 21:23:40 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmp606sn69j.wav
+2025-08-10 21:24:00 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 2145 znaków
+2025-08-10 21:24:00 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-10 21:24:01 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-10 21:24:01 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 2144 znaków
+2025-08-10 21:24:15 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmp606sn69j.mp4
+2025-08-10 21:24:15 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-10 21:24:29 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmp59di5r1h.wav
+2025-08-10 21:24:29 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmp59di5r1h.wav
+2025-08-10 21:24:40 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 2145 znaków
+2025-08-10 21:24:40 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-10 21:24:41 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-10 21:24:41 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 2139 znaków
+2025-08-10 21:24:55 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmp59di5r1h.mp4
+2025-08-10 21:24:56 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-10 21:25:29 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpfo2icwvy.wav
+2025-08-10 21:25:30 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpfo2icwvy.wav
+2025-08-10 21:25:36 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 2145 znaków
+2025-08-10 21:25:37 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-10 21:25:37 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-10 21:25:37 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 2144 znaków
+2025-08-10 21:25:37 - src.services.subtitle_generator - WARNING - Liczba zdań (49) nie odpowiada liczbie segmentów (38)
+2025-08-10 21:25:51 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmpfo2icwvy.mp4
+2025-08-10 21:25:52 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-10 21:29:51 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpk97qfazg.wav
+2025-08-10 21:29:51 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpk97qfazg.wav
+2025-08-10 21:30:11 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 2145 znaków
+2025-08-10 21:30:11 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-10 21:30:12 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-10 21:30:12 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 2139 znaków
+2025-08-10 21:30:12 - src.services.subtitle_generator - WARNING - Liczba zdań (49) nie odpowiada liczbie segmentów (54)
+2025-08-10 21:30:26 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmpk97qfazg.mp4
+2025-08-10 21:30:26 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-11 20:45:35 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmp_tqpk5lo.wav
+2025-08-11 20:45:35 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmp_tqpk5lo.wav
+2025-08-11 20:45:44 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 2145 znaków
+2025-08-11 20:45:44 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-11 20:45:45 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-11 20:45:45 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 2139 znaków
+2025-08-11 20:45:46 - src.services.subtitle_generator - WARNING - Liczba zdań (49) nie odpowiada liczbie segmentów (54)
+2025-08-11 20:46:00 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmp_tqpk5lo.mp4
+2025-08-11 20:46:00 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-11 20:46:21 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpx32lv0du.wav
+2025-08-11 20:46:21 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpx32lv0du.wav
+2025-08-11 20:46:31 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 2145 znaków
+2025-08-11 20:46:32 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-11 20:46:32 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-11 20:46:32 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 2139 znaków
+2025-08-11 20:46:32 - src.services.subtitle_generator - WARNING - Liczba zdań (49) nie odpowiada liczbie segmentów (54)
+2025-08-11 20:46:46 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmpx32lv0du.mp4
+2025-08-11 20:46:47 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-17 19:28:21 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmp4_h9xs8x.wav
+2025-08-17 19:28:21 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmp4_h9xs8x.wav
+2025-08-17 19:28:43 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 2145 znaków
+2025-08-17 19:28:43 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-17 19:28:44 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-17 19:28:44 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 2139 znaków
+2025-08-17 19:28:44 - src.services.subtitle_generator - WARNING - Liczba zdań (49) nie odpowiada liczbie segmentów (54)
+2025-08-17 19:28:58 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmp4_h9xs8x.mp4
+2025-08-17 19:28:58 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 21:02:56 - src.services.retry_manager - INFO - Kompensacja opóźnień: 7.40s
+2025-08-30 21:02:56 - src.services.retry_manager - INFO - Dostosowano timing 3 segmentów
+2025-08-30 21:02:56 - src.services.retry_manager - INFO - Zidentyfikowano 1 problematycznych segmentów
+2025-08-30 21:04:14 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpbml8neoa.wav
+2025-08-30 21:04:14 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpbml8neoa.wav
+2025-08-30 21:05:00 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 2145 znaków
+2025-08-30 21:05:00 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-30 21:05:01 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-30 21:05:01 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 2139 znaków
+2025-08-30 21:05:01 - src.services.translation_service - INFO - Czas tłumaczenia: 1.06s, Jakość: 0.88
+2025-08-30 21:05:02 - src.services.subtitle_generator - WARNING - Liczba zdań (49) nie odpowiada liczbie segmentów (13)
+2025-08-30 21:05:16 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmpbml8neoa.mp4
+2025-08-30 21:05:16 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 21:17:32 - src.services.audio_sync_manager - INFO - Wykryto 0 segmentów mowy
+2025-08-30 21:17:32 - src.services.audio_sync_manager - INFO - Stosowanie korekty synchronizacji: 0.30s
+2025-08-30 21:17:32 - src.services.audio_sync_manager - INFO - Skorygowano 3 segmentów
+2025-08-30 21:17:32 - src.services.audio_sync_manager - INFO - Dostrojono timing 3 segmentów
+2025-08-30 21:17:32 - src.services.audio_sync_manager - INFO - Wykryto 0 segmentów mowy
+2025-08-30 21:17:40 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpb_w2y833.wav
+2025-08-30 21:17:40 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpb_w2y833.wav
+2025-08-30 21:17:59 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 2145 znaków
+2025-08-30 21:18:00 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-30 21:18:01 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-30 21:18:01 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 2144 znaków
+2025-08-30 21:18:01 - src.services.translation_service - INFO - Czas tłumaczenia: 1.43s, Jakość: 0.88
+2025-08-30 21:18:01 - src.services.audio_sync_manager - INFO - Analizuję cechy audio: C:\Users\grims\AppData\Local\Temp\audio_tmpb_w2y833.wav
+2025-08-30 21:18:37 - src.services.audio_sync_manager - ERROR - Błąd analizy audio: unsupported format string passed to numpy.ndarray.__format__
+2025-08-30 21:18:37 - src.services.audio_sync_manager - WARNING - Brak segmentów do synchronizacji
+2025-08-30 21:18:37 - src.services.subtitle_generator - WARNING - Liczba zdań (49) nie odpowiada liczbie segmentów (13)
+2025-08-30 21:18:53 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmpb_w2y833.mp4
+2025-08-30 21:18:53 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 21:21:24 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmp3ijk6v42.wav
+2025-08-30 21:21:24 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmp3ijk6v42.wav
+2025-08-30 21:21:45 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 1080 znaków
+2025-08-30 21:21:45 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-30 21:21:46 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-30 21:21:46 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 1089 znaków
+2025-08-30 21:21:46 - src.services.translation_service - INFO - Czas tłumaczenia: 0.55s, Jakość: 0.88
+2025-08-30 21:21:46 - src.services.audio_sync_manager - INFO - Analizuję cechy audio: C:\Users\grims\AppData\Local\Temp\audio_tmp3ijk6v42.wav
+2025-08-30 21:21:46 - src.services.audio_sync_manager - ERROR - Błąd analizy audio: unsupported format string passed to numpy.ndarray.__format__
+2025-08-30 21:21:46 - src.services.audio_sync_manager - WARNING - Brak segmentów do synchronizacji
+2025-08-30 21:21:46 - src.services.subtitle_generator - WARNING - Liczba zdań (32) nie odpowiada liczbie segmentów (9)
+2025-08-30 21:21:49 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmp3ijk6v42.mp4
+2025-08-30 21:21:49 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 21:23:27 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpcsqo_5xx.wav
+2025-08-30 21:23:27 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpcsqo_5xx.wav
+2025-08-30 21:23:35 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 1080 znaków
+2025-08-30 21:23:35 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-30 21:23:36 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-30 21:23:36 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 1089 znaków
+2025-08-30 21:23:36 - src.services.translation_service - INFO - Czas tłumaczenia: 1.31s, Jakość: 0.88
+2025-08-30 21:23:37 - src.services.audio_sync_manager - INFO - Analizuję cechy audio: C:\Users\grims\AppData\Local\Temp\audio_tmpcsqo_5xx.wav
+2025-08-30 21:23:42 - src.services.audio_sync_manager - ERROR - Błąd analizy audio: unsupported format string passed to numpy.ndarray.__format__
+2025-08-30 21:23:42 - src.services.audio_sync_manager - WARNING - Brak segmentów do synchronizacji
+2025-08-30 21:23:43 - src.services.subtitle_generator - WARNING - Liczba zdań (32) nie odpowiada liczbie segmentów (9)
+2025-08-30 21:23:45 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmpcsqo_5xx.mp4
+2025-08-30 21:23:45 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 21:29:34 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmp9cd0nsj5.wav
+2025-08-30 21:29:34 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmp9cd0nsj5.wav
+2025-08-30 21:30:01 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 1080 znaków
+2025-08-30 21:30:01 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-30 21:30:02 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-30 21:30:02 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 1089 znaków
+2025-08-30 21:30:02 - src.services.translation_service - INFO - Czas tłumaczenia: 0.58s, Jakość: 0.88
+2025-08-30 21:30:02 - src.services.audio_sync_manager - INFO - Analizuję cechy audio: C:\Users\grims\AppData\Local\Temp\audio_tmp9cd0nsj5.wav
+2025-08-30 21:30:03 - src.services.audio_sync_manager - ERROR - Błąd analizy audio: unsupported format string passed to numpy.ndarray.__format__
+2025-08-30 21:30:03 - src.services.audio_sync_manager - WARNING - Brak segmentów do synchronizacji
+2025-08-30 21:30:03 - src.services.word_level_sync - INFO - Tworzenie napisów na poziomie słów...
+2025-08-30 21:30:03 - src.services.word_level_sync - INFO - Utworzono 32 segmentów na poziomie słów
+2025-08-30 21:30:05 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmp9cd0nsj5.mp4
+2025-08-30 21:30:06 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 21:33:38 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpolxfmesw.wav
+2025-08-30 21:33:38 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpolxfmesw.wav
+2025-08-30 21:33:59 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 1080 znaków
+2025-08-30 21:34:00 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-30 21:34:00 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-30 21:34:00 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 1089 znaków
+2025-08-30 21:34:00 - src.services.translation_service - INFO - Czas tłumaczenia: 0.64s, Jakość: 0.88
+2025-08-30 21:34:00 - src.services.audio_sync_manager - INFO - Analizuję cechy audio: C:\Users\grims\AppData\Local\Temp\audio_tmpolxfmesw.wav
+2025-08-30 21:34:01 - src.services.audio_sync_manager - ERROR - Błąd analizy audio: unsupported format string passed to numpy.ndarray.__format__
+2025-08-30 21:34:01 - src.services.audio_sync_manager - WARNING - Brak segmentów do synchronizacji
+2025-08-30 21:34:01 - src.services.word_level_sync - INFO - Tworzenie napisów na poziomie słów...
+2025-08-30 21:34:01 - src.services.word_level_sync - INFO - Utworzono 32 segmentów na poziomie słów
+2025-08-30 21:34:03 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmpolxfmesw.mp4
+2025-08-30 21:34:04 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 21:37:58 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmp43h_gvy8.wav
+2025-08-30 21:37:58 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmp43h_gvy8.wav
+2025-08-30 21:38:09 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 1080 znaków
+2025-08-30 21:38:09 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-30 21:38:10 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-30 21:38:10 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 1089 znaków
+2025-08-30 21:38:10 - src.services.translation_service - INFO - Czas tłumaczenia: 0.60s, Jakość: 0.88
+2025-08-30 21:38:10 - src.services.audio_sync_manager - INFO - Analizuję cechy audio: C:\Users\grims\AppData\Local\Temp\audio_tmp43h_gvy8.wav
+2025-08-30 21:38:11 - src.services.audio_sync_manager - ERROR - Błąd analizy audio: unsupported format string passed to numpy.ndarray.__format__
+2025-08-30 21:38:11 - src.services.audio_sync_manager - WARNING - Brak segmentów do synchronizacji
+2025-08-30 21:38:11 - src.services.word_level_sync - INFO - Tworzenie napisów na poziomie słów...
+2025-08-30 21:38:11 - src.services.word_level_sync - INFO - Utworzono 32 segmentów na poziomie słów
+2025-08-30 21:38:13 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmp43h_gvy8.mp4
+2025-08-30 21:38:13 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 21:42:24 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmp37k26dyl.wav
+2025-08-30 21:42:24 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmp37k26dyl.wav
+2025-08-30 21:42:33 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpcohv6aks.wav
+2025-08-30 21:42:33 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpcohv6aks.wav
+2025-08-30 21:42:40 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 1080 znaków
+2025-08-30 21:42:50 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 1080 znaków
+2025-08-30 21:42:50 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-30 21:42:51 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-30 21:42:51 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 1089 znaków
+2025-08-30 21:42:51 - src.services.translation_service - INFO - Czas tłumaczenia: 0.60s, Jakość: 0.88
+2025-08-30 21:42:51 - src.services.audio_sync_manager - INFO - Analizuję cechy audio: C:\Users\grims\AppData\Local\Temp\audio_tmpcohv6aks.wav
+2025-08-30 21:42:51 - src.services.audio_sync_manager - ERROR - Błąd analizy audio: unsupported format string passed to numpy.ndarray.__format__
+2025-08-30 21:42:51 - src.services.audio_sync_manager - WARNING - Brak segmentów do synchronizacji
+2025-08-30 21:42:51 - src.services.word_level_sync - INFO - Tworzenie napisów na poziomie słów...
+2025-08-30 21:42:51 - src.services.word_level_sync - INFO - Utworzono 32 segmentów na poziomie słów
+2025-08-30 21:42:54 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmpcohv6aks.mp4
+2025-08-30 21:42:54 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 21:43:46 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpw5hefgzs.wav
+2025-08-30 21:43:46 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpw5hefgzs.wav
+2025-08-30 21:44:04 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 1080 znaków
+2025-08-30 21:44:04 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-30 21:44:04 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-30 21:44:04 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 1089 znaków
+2025-08-30 21:44:04 - src.services.translation_service - INFO - Czas tłumaczenia: 0.63s, Jakość: 0.88
+2025-08-30 21:44:04 - src.services.audio_sync_manager - INFO - Analizuję cechy audio: C:\Users\grims\AppData\Local\Temp\audio_tmpw5hefgzs.wav
+2025-08-30 21:44:05 - src.services.audio_sync_manager - ERROR - Błąd analizy audio: unsupported format string passed to numpy.ndarray.__format__
+2025-08-30 21:44:05 - src.services.audio_sync_manager - WARNING - Brak segmentów do synchronizacji
+2025-08-30 21:44:05 - src.services.word_level_sync - INFO - Tworzenie napisów na poziomie słów...
+2025-08-30 21:44:05 - src.services.word_level_sync - INFO - Utworzono 32 segmentów na poziomie słów
+2025-08-30 21:44:07 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmpw5hefgzs.mp4
+2025-08-30 21:44:08 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 21:47:50 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpsxb_uxl2.wav
+2025-08-30 21:47:51 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpsxb_uxl2.wav
+2025-08-30 21:48:11 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 1080 znaków
+2025-08-30 21:48:11 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-30 21:48:11 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-30 21:48:11 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 1089 znaków
+2025-08-30 21:48:11 - src.services.translation_service - INFO - Czas tłumaczenia: 0.72s, Jakość: 0.88
+2025-08-30 21:48:12 - src.services.audio_sync_manager - INFO - Analizuję cechy audio: C:\Users\grims\AppData\Local\Temp\audio_tmpsxb_uxl2.wav
+2025-08-30 21:48:12 - src.services.audio_sync_manager - ERROR - Błąd analizy audio: unsupported format string passed to numpy.ndarray.__format__
+2025-08-30 21:48:12 - src.services.audio_sync_manager - WARNING - Brak segmentów do synchronizacji
+2025-08-30 21:48:12 - src.services.word_level_sync - INFO - Tworzenie napisów na poziomie słów...
+2025-08-30 21:48:12 - src.services.word_level_sync - INFO - Utworzono 32 segmentów na poziomie słów
+2025-08-30 21:48:12 - src.services.smooth_subtitle_renderer - INFO - Generowanie płynnych napisów w trybie: smooth_progressive
+2025-08-30 21:48:15 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmpsxb_uxl2.mp4
+2025-08-30 21:48:15 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 21:54:35 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpjba3gli7.wav
+2025-08-30 21:54:35 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpjba3gli7.wav
+2025-08-30 21:54:58 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 1080 znaków
+2025-08-30 21:54:58 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-30 21:54:59 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-30 21:54:59 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 1089 znaków
+2025-08-30 21:54:59 - src.services.translation_service - INFO - Czas tłumaczenia: 1.20s, Jakość: 0.88
+2025-08-30 21:54:59 - src.services.audio_sync_manager - INFO - Analizuję cechy audio: C:\Users\grims\AppData\Local\Temp\audio_tmpjba3gli7.wav
+2025-08-30 21:54:59 - src.services.audio_sync_manager - ERROR - Błąd analizy audio: name 'os' is not defined
+2025-08-30 21:54:59 - src.services.audio_sync_manager - INFO - Wykryto 1 segmentów mowy
+2025-08-30 21:54:59 - src.services.audio_sync_manager - INFO - Precyzyjne dopasowanie ma niską pewność (0.00), próbuję inne metody...
+2025-08-30 21:54:59 - src.services.audio_sync_manager - INFO - Precyzyjne dopasowanie nieudane, próbuję metody energetycznej...
+2025-08-30 21:54:59 - src.services.audio_sync_manager - INFO - Obliczono przesunięcie: 1.40s (pewność: 0.80, metoda: energy_based)
+2025-08-30 21:54:59 - src.services.audio_sync_manager - INFO - Stosowanie korekty synchronizacji: 1.40s (oryginalne: 1.40s)
+2025-08-30 21:54:59 - src.services.audio_sync_manager - INFO - Skorygowano 9 segmentów z adaptacyjnym przesunięciem
+2025-08-30 21:54:59 - src.services.audio_sync_manager - INFO - Dostrojono timing 9 segmentów
+2025-08-30 21:54:59 - src.services.audio_sync_manager - INFO - Wykryto 1 segmentów mowy
+2025-08-30 21:54:59 - src.services.word_level_sync - INFO - Tworzenie napisów na poziomie słów...
+2025-08-30 21:54:59 - src.services.word_level_sync - INFO - Utworzono 32 segmentów na poziomie słów
+2025-08-30 21:54:59 - src.services.smooth_subtitle_renderer - INFO - Generowanie płynnych napisów w trybie: smooth_progressive
+2025-08-30 21:55:02 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmpjba3gli7.mp4
+2025-08-30 21:55:02 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 22:01:21 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpofb899r4.wav
+2025-08-30 22:01:21 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpofb899r4.wav
+2025-08-30 22:01:37 - src.services.transcription_service - INFO - Wykryto 210 słów z word-level timestamps
+2025-08-30 22:01:37 - src.services.transcription_service - INFO - ✅ Word-level timestamps są wysokiej jakości
+2025-08-30 22:01:37 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 1080 znaków
+2025-08-30 22:01:37 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-30 22:01:38 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-30 22:01:38 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 1089 znaków
+2025-08-30 22:01:38 - src.services.translation_service - INFO - Czas tłumaczenia: 0.47s, Jakość: 0.88
+2025-08-30 22:01:38 - src.services.audio_sync_manager - INFO - Analizuję cechy audio: C:\Users\grims\AppData\Local\Temp\audio_tmpofb899r4.wav
+2025-08-30 22:01:38 - src.services.audio_sync_manager - ERROR - Błąd analizy audio: name 'os' is not defined
+2025-08-30 22:01:38 - src.services.audio_sync_manager - INFO - Wykryto 1 segmentów mowy
+2025-08-30 22:01:38 - src.services.audio_sync_manager - INFO - Precyzyjne dopasowanie ma niską pewność (0.00), próbuję inne metody...
+2025-08-30 22:01:38 - src.services.audio_sync_manager - INFO - Precyzyjne dopasowanie nieudane, próbuję metody energetycznej...
+2025-08-30 22:01:38 - src.services.audio_sync_manager - INFO - Obliczono przesunięcie: -10.00s (pewność: 0.74, metoda: energy_based)
+2025-08-30 22:01:38 - src.services.audio_sync_manager - INFO - Stosowanie korekty synchronizacji: -10.00s (oryginalne: -10.00s)
+2025-08-30 22:01:38 - src.services.audio_sync_manager - WARNING - Segment 0: Użyto zmniejszonej korekty (-3.50s)
+2025-08-30 22:01:38 - src.services.audio_sync_manager - WARNING - Segment 1: Użyto zmniejszonej korekty (-5.50s)
+2025-08-30 22:01:38 - src.services.audio_sync_manager - WARNING - Segment 2: Użyto zmniejszonej korekty (-5.00s)
+2025-08-30 22:01:38 - src.services.audio_sync_manager - WARNING - Segment 3: Użyto zmniejszonej korekty (-5.50s)
+2025-08-30 22:01:38 - src.services.audio_sync_manager - WARNING - Segment 4: Użyto zmniejszonej korekty (-5.50s)
+2025-08-30 22:01:38 - src.services.audio_sync_manager - WARNING - Segment 5: Użyto zmniejszonej korekty (-5.50s)
+2025-08-30 22:01:38 - src.services.audio_sync_manager - WARNING - Segment 6: Użyto zmniejszonej korekty (-5.50s)
+2025-08-30 22:01:38 - src.services.audio_sync_manager - WARNING - Segment 7: Użyto zmniejszonej korekty (-5.50s)
+2025-08-30 22:01:38 - src.services.audio_sync_manager - WARNING - Segment 8: Użyto zmniejszonej korekty (-3.85s)
+2025-08-30 22:01:38 - src.services.audio_sync_manager - INFO - Skorygowano 9 segmentów z adaptacyjnym przesunięciem
+2025-08-30 22:01:38 - src.services.audio_sync_manager - INFO - Dostrojono timing 9 segmentów
+2025-08-30 22:01:38 - src.services.audio_sync_manager - INFO - Wykryto 1 segmentów mowy
+2025-08-30 22:01:38 - src.services.word_level_sync - INFO - Tworzenie napisów na poziomie słów...
+2025-08-30 22:01:38 - src.services.word_level_sync - INFO - 🎯 Używam 210 precyzyjnych word-level timestamps z AssemblyAI
+2025-08-30 22:01:38 - src.services.word_level_sync - INFO - 🔧 Zoptymalizowano 210 word-level timestamps
+2025-08-30 22:01:38 - src.services.word_level_sync - INFO - ✅ Jakość word-level timestamps: 99.4%
+2025-08-30 22:01:38 - src.services.word_level_sync - INFO - Utworzono 32 segmentów na poziomie słów
+2025-08-30 22:01:38 - src.services.smooth_subtitle_renderer - INFO - Generowanie płynnych napisów w trybie: smooth_progressive
+2025-08-30 22:01:41 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmpofb899r4.mp4
+2025-08-30 22:01:41 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 22:02:48 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpbgk2r1eq.wav
+2025-08-30 22:02:48 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpbgk2r1eq.wav
+2025-08-30 22:03:09 - src.services.transcription_service - INFO - Wykryto 210 słów z word-level timestamps
+2025-08-30 22:03:09 - src.services.transcription_service - INFO - ✅ Word-level timestamps są wysokiej jakości
+2025-08-30 22:03:09 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 1080 znaków
+2025-08-30 22:03:09 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: EN
+2025-08-30 22:03:09 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-30 22:03:09 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 1080 znaków
+2025-08-30 22:03:09 - src.services.translation_service - INFO - Czas tłumaczenia: 0.30s, Jakość: 0.88
+2025-08-30 22:03:09 - src.services.audio_sync_manager - INFO - Analizuję cechy audio: C:\Users\grims\AppData\Local\Temp\audio_tmpbgk2r1eq.wav
+2025-08-30 22:03:09 - src.services.audio_sync_manager - ERROR - Błąd analizy audio: name 'os' is not defined
+2025-08-30 22:03:09 - src.services.audio_sync_manager - INFO - Wykryto 0 segmentów mowy
+2025-08-30 22:03:09 - src.services.audio_sync_manager - WARNING - Brak segmentów do synchronizacji
+2025-08-30 22:03:09 - src.services.word_level_sync - INFO - Tworzenie napisów na poziomie słów...
+2025-08-30 22:03:09 - src.services.word_level_sync - INFO - 🎯 Używam 210 precyzyjnych word-level timestamps z AssemblyAI
+2025-08-30 22:03:09 - src.services.word_level_sync - INFO - 🔧 Zoptymalizowano 210 word-level timestamps
+2025-08-30 22:03:09 - src.services.word_level_sync - INFO - ✅ Jakość word-level timestamps: 99.4%
+2025-08-30 22:03:09 - src.services.word_level_sync - INFO - Utworzono 32 segmentów na poziomie słów
+2025-08-30 22:03:09 - src.services.smooth_subtitle_renderer - INFO - Generowanie płynnych napisów w trybie: smooth_progressive
+2025-08-30 22:03:12 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmpbgk2r1eq.mp4
+2025-08-30 22:03:12 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 22:07:57 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpvmcntmpi.wav
+2025-08-30 22:07:57 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpvmcntmpi.wav
+2025-08-30 22:08:05 - src.services.transcription_service - INFO - Wykryto 210 słów z word-level timestamps
+2025-08-30 22:08:05 - src.services.transcription_service - INFO - ✅ Word-level timestamps są wysokiej jakości
+2025-08-30 22:08:05 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 1080 znaków
+2025-08-30 22:08:05 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-30 22:08:05 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-30 22:08:05 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 1089 znaków
+2025-08-30 22:08:05 - src.services.translation_service - INFO - Czas tłumaczenia: 0.60s, Jakość: 0.88
+2025-08-30 22:08:06 - src.services.audio_sync_manager - INFO - Analizuję cechy audio: C:\Users\grims\AppData\Local\Temp\audio_tmpvmcntmpi.wav
+2025-08-30 22:08:06 - src.services.audio_sync_manager - ERROR - Błąd analizy audio: name 'os' is not defined
+2025-08-30 22:08:06 - src.services.audio_sync_manager - INFO - Wykryto 1 segmentów mowy
+2025-08-30 22:08:06 - src.services.audio_sync_manager - INFO - Precyzyjne dopasowanie ma niską pewność (0.00), próbuję inne metody...
+2025-08-30 22:08:06 - src.services.audio_sync_manager - INFO - Precyzyjne dopasowanie nieudane, próbuję metody energetycznej...
+2025-08-30 22:08:06 - src.services.audio_sync_manager - INFO - Obliczono przesunięcie: -10.00s (pewność: 0.65, metoda: energy_based)
+2025-08-30 22:08:06 - src.services.audio_sync_manager - INFO - Stosowanie korekty synchronizacji: -10.00s (oryginalne: -10.00s)
+2025-08-30 22:08:06 - src.services.audio_sync_manager - WARNING - Segment 0: Użyto zmniejszonej korekty (-3.50s)
+2025-08-30 22:08:06 - src.services.audio_sync_manager - WARNING - Segment 1: Użyto zmniejszonej korekty (-5.50s)
+2025-08-30 22:08:06 - src.services.audio_sync_manager - WARNING - Segment 2: Użyto zmniejszonej korekty (-5.00s)
+2025-08-30 22:08:06 - src.services.audio_sync_manager - WARNING - Segment 3: Użyto zmniejszonej korekty (-5.50s)
+2025-08-30 22:08:06 - src.services.audio_sync_manager - WARNING - Segment 4: Użyto zmniejszonej korekty (-5.50s)
+2025-08-30 22:08:06 - src.services.audio_sync_manager - WARNING - Segment 5: Użyto zmniejszonej korekty (-5.50s)
+2025-08-30 22:08:06 - src.services.audio_sync_manager - WARNING - Segment 6: Użyto zmniejszonej korekty (-5.50s)
+2025-08-30 22:08:06 - src.services.audio_sync_manager - WARNING - Segment 7: Użyto zmniejszonej korekty (-5.50s)
+2025-08-30 22:08:06 - src.services.audio_sync_manager - WARNING - Segment 8: Użyto zmniejszonej korekty (-3.85s)
+2025-08-30 22:08:06 - src.services.audio_sync_manager - INFO - Skorygowano 9 segmentów z adaptacyjnym przesunięciem
+2025-08-30 22:08:06 - src.services.audio_sync_manager - INFO - Dostrojono timing 9 segmentów
+2025-08-30 22:08:06 - src.services.audio_sync_manager - INFO - Wykryto 1 segmentów mowy
+2025-08-30 22:08:06 - src.services.utterance_segmentation - INFO - 🎯 Segmentacja na utterances z wykrywaniem pauz...
+2025-08-30 22:08:06 - src.services.utterance_segmentation - INFO - 🔧 Utworzono 9 utterances z segmentów
+2025-08-30 22:08:06 - src.services.utterance_segmentation - INFO - 📊 Pauzy: średnia 1.50s, maksymalna 4.32s
+2025-08-30 22:08:06 - src.services.utterance_segmentation - INFO - 🔧 Optymalizacja: 9 → 19 utterances
+2025-08-30 22:08:06 - src.services.utterance_segmentation - INFO - 📊 Jakość segmentacji utterances: 79.7%
+2025-08-30 22:08:06 - src.services.word_level_sync - INFO - Tworzenie napisów na poziomie słów...
+2025-08-30 22:08:06 - src.services.word_level_sync - INFO - 🎯 Używam 210 precyzyjnych word-level timestamps z AssemblyAI
+2025-08-30 22:08:06 - src.services.word_level_sync - INFO - 🔧 Zoptymalizowano 210 word-level timestamps
+2025-08-30 22:08:06 - src.services.word_level_sync - INFO - ✅ Jakość word-level timestamps: 99.5%
+2025-08-30 22:08:06 - src.services.word_level_sync - INFO - Utworzono 32 segmentów na poziomie słów
+2025-08-30 22:08:06 - src.services.smooth_subtitle_renderer - INFO - Generowanie płynnych napisów w trybie: smooth_progressive
+2025-08-30 22:08:08 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmpvmcntmpi.mp4
+2025-08-30 22:08:08 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 22:17:30 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmp3bl4vkcj.wav
+2025-08-30 22:17:30 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmp3bl4vkcj.wav
+2025-08-30 22:17:50 - src.services.transcription_service - INFO - Wykryto 210 słów z word-level timestamps
+2025-08-30 22:17:50 - src.services.transcription_service - INFO - ✅ Word-level timestamps są wysokiej jakości
+2025-08-30 22:17:50 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 1080 znaków
+2025-08-30 22:17:50 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: EN
+2025-08-30 22:17:50 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-30 22:17:50 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 1080 znaków
+2025-08-30 22:17:50 - src.services.translation_service - INFO - Czas tłumaczenia: 0.33s, Jakość: 0.88
+2025-08-30 22:17:50 - src.services.audio_sync_manager - INFO - Analizuję cechy audio: C:\Users\grims\AppData\Local\Temp\audio_tmp3bl4vkcj.wav
+2025-08-30 22:17:50 - src.services.audio_sync_manager - ERROR - Błąd analizy audio: name 'os' is not defined
+2025-08-30 22:17:50 - src.services.audio_sync_manager - INFO - Wykryto 0 segmentów mowy
+2025-08-30 22:17:50 - src.services.audio_sync_manager - WARNING - Brak segmentów do synchronizacji
+2025-08-30 22:17:51 - src.services.utterance_segmentation - INFO - 🎯 Segmentacja na utterances z wykrywaniem pauz...
+2025-08-30 22:17:51 - src.services.utterance_segmentation - INFO - 🔧 Utworzono 9 utterances z segmentów
+2025-08-30 22:17:51 - src.services.utterance_segmentation - INFO - 📊 Pauzy: średnia 1.40s, maksymalna 4.32s
+2025-08-30 22:17:51 - src.services.utterance_segmentation - INFO - 🔧 Optymalizacja: 9 → 17 utterances
+2025-08-30 22:17:51 - src.services.utterance_segmentation - INFO - 📊 Jakość segmentacji utterances: 81.7%
+2025-08-30 22:17:51 - src.services.word_level_sync - INFO - Tworzenie napisów na poziomie słów...
+2025-08-30 22:17:51 - src.services.word_level_sync - INFO - 🎯 Używam 210 precyzyjnych word-level timestamps z AssemblyAI
+2025-08-30 22:17:51 - src.services.word_level_sync - INFO - 🔧 Zoptymalizowano 210 word-level timestamps
+2025-08-30 22:17:51 - src.services.word_level_sync - INFO - ✅ Jakość word-level timestamps: 99.4%
+2025-08-30 22:17:51 - src.services.word_level_sync - INFO - Utworzono 32 segmentów na poziomie słów
+2025-08-30 22:17:51 - src.services.smooth_subtitle_renderer - INFO - Generowanie płynnych napisów w trybie: smooth_progressive
+2025-08-30 22:17:53 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmp3bl4vkcj.mp4
+2025-08-30 22:17:53 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 22:20:19 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpdtbl5zim.wav
+2025-08-30 22:20:19 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpdtbl5zim.wav
+2025-08-30 22:20:27 - src.services.transcription_service - INFO - Wykryto 210 słów z word-level timestamps
+2025-08-30 22:20:27 - src.services.transcription_service - INFO - ✅ Word-level timestamps są wysokiej jakości
+2025-08-30 22:20:27 - src.services.transcription_service - INFO - Transkrypcja zakończona pomyślnie. Długość tekstu: 1080 znaków
+2025-08-30 22:20:27 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: EN
+2025-08-30 22:20:27 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-30 22:20:27 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 1080 znaków
+2025-08-30 22:20:27 - src.services.translation_service - INFO - Czas tłumaczenia: 0.27s, Jakość: 0.88
+2025-08-30 22:20:27 - src.services.audio_sync_manager - INFO - Analizuję cechy audio: C:\Users\grims\AppData\Local\Temp\audio_tmpdtbl5zim.wav
+2025-08-30 22:20:27 - src.services.audio_sync_manager - ERROR - Błąd analizy audio: name 'os' is not defined
+2025-08-30 22:20:27 - src.services.audio_sync_manager - INFO - Wykryto 0 segmentów mowy
+2025-08-30 22:20:27 - src.services.audio_sync_manager - WARNING - Brak segmentów do synchronizacji
+2025-08-30 22:20:27 - src.services.utterance_segmentation - INFO - 🎯 Segmentacja na utterances z wykrywaniem pauz...
+2025-08-30 22:20:27 - src.services.utterance_segmentation - INFO - 🔧 Utworzono 9 utterances z segmentów
+2025-08-30 22:20:27 - src.services.utterance_segmentation - INFO - 📊 Pauzy: średnia 1.40s, maksymalna 4.32s
+2025-08-30 22:20:27 - src.services.utterance_segmentation - INFO - 🔧 Optymalizacja: 9 → 17 utterances
+2025-08-30 22:20:27 - src.services.utterance_segmentation - INFO - 📊 Jakość segmentacji utterances: 81.7%
+2025-08-30 22:20:27 - src.services.word_level_sync - INFO - Tworzenie napisów na poziomie słów...
+2025-08-30 22:20:27 - src.services.word_level_sync - INFO - 🎯 Używam 210 precyzyjnych word-level timestamps z AssemblyAI
+2025-08-30 22:20:27 - src.services.word_level_sync - INFO - 🔧 Zoptymalizowano 210 word-level timestamps
+2025-08-30 22:20:27 - src.services.word_level_sync - INFO - ✅ Jakość word-level timestamps: 99.4%
+2025-08-30 22:20:27 - src.services.word_level_sync - INFO - Utworzono 32 segmentów na poziomie słów
+2025-08-30 22:20:27 - src.services.smooth_subtitle_renderer - INFO - Generowanie płynnych napisów w trybie: smooth_progressive
+2025-08-30 22:20:30 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmpdtbl5zim.mp4
+2025-08-30 22:20:30 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 22:23:45 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpbwuiur78.wav
+2025-08-30 22:23:45 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpbwuiur78.wav
+2025-08-30 22:24:02 - src.services.transcription_service - ERROR - Błąd podczas transkrypcji: The write operation timed out
+2025-08-30 22:24:03 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-30 22:24:03 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: PL
+2025-08-30 22:24:03 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 25 znaków
+2025-08-30 22:24:03 - src.services.translation_service - INFO - Czas tłumaczenia: 0.59s, Jakość: 0.88
+2025-08-30 22:24:03 - src.services.audio_sync_manager - INFO - Analizuję cechy audio: C:\Users\grims\AppData\Local\Temp\audio_tmpbwuiur78.wav
+2025-08-30 22:24:03 - src.services.audio_sync_manager - ERROR - Błąd analizy audio: name 'os' is not defined
+2025-08-30 22:24:03 - src.services.audio_sync_manager - INFO - Wykryto 0 segmentów mowy
+2025-08-30 22:24:03 - src.services.audio_sync_manager - WARNING - Brak segmentów do synchronizacji
+2025-08-30 22:24:03 - src.services.utterance_segmentation - INFO - 🎯 Segmentacja na utterances z wykrywaniem pauz...
+2025-08-30 22:24:03 - src.services.utterance_segmentation - INFO - 🔧 Utworzono 1 utterances z segmentów
+2025-08-30 22:24:03 - src.services.utterance_segmentation - INFO - 🔧 Optymalizacja: 1 → 1 utterances
+2025-08-30 22:24:03 - src.services.utterance_segmentation - INFO - 📊 Jakość segmentacji utterances: 25.0%
+2025-08-30 22:24:04 - src.services.word_level_sync - INFO - Tworzenie napisów na poziomie słów...
+2025-08-30 22:24:04 - src.services.word_level_sync - WARNING - ⚠️ Brak word-level timestamps - tworzę oszacowania z segmentów
+2025-08-30 22:24:04 - src.services.word_level_sync - INFO - Utworzono 1 segmentów na poziomie słów
+2025-08-30 22:24:04 - src.services.smooth_subtitle_renderer - INFO - Generowanie płynnych napisów w trybie: smooth_progressive
+2025-08-30 22:24:06 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmpbwuiur78.mp4
+2025-08-30 22:24:06 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 22:33:18 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpq52wqt3e.wav
+2025-08-30 22:33:18 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpq52wqt3e.wav
+2025-08-30 22:33:18 - src.services.transcription_service - ERROR - Błąd podczas transkrypcji: TranscriptionConfig.__init__() got an unexpected keyword argument 'multichannel'
+2025-08-30 22:33:18 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-30 22:33:19 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: PL
+2025-08-30 22:33:19 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 25 znaków
+2025-08-30 22:33:19 - src.services.translation_service - INFO - Czas tłumaczenia: 0.32s, Jakość: 0.88
+2025-08-30 22:33:19 - src.services.audio_sync_manager - INFO - Analizuję cechy audio: C:\Users\grims\AppData\Local\Temp\audio_tmpq52wqt3e.wav
+2025-08-30 22:33:19 - src.services.audio_sync_manager - ERROR - Błąd analizy audio: name 'os' is not defined
+2025-08-30 22:33:19 - src.services.audio_sync_manager - INFO - Wykryto 1 segmentów mowy
+2025-08-30 22:33:19 - src.services.audio_sync_manager - INFO - Precyzyjne dopasowanie ma niską pewność (0.00), próbuję inne metody...
+2025-08-30 22:33:19 - src.services.audio_sync_manager - INFO - Precyzyjne dopasowanie nieudane, próbuję metody energetycznej...
+2025-08-30 22:33:19 - src.services.audio_sync_manager - INFO - Obliczono przesunięcie: 2.00s (pewność: 0.68, metoda: energy_based)
+2025-08-30 22:33:19 - src.services.audio_sync_manager - INFO - Stosowanie korekty synchronizacji: 2.00s (oryginalne: 2.00s)
+2025-08-30 22:33:19 - src.services.audio_sync_manager - INFO - Skorygowano 1 segmentów z adaptacyjnym przesunięciem
+2025-08-30 22:33:19 - src.services.audio_sync_manager - INFO - Dostrojono timing 1 segmentów
+2025-08-30 22:33:19 - src.services.audio_sync_manager - INFO - Wykryto 1 segmentów mowy
+2025-08-30 22:33:19 - src.services.utterance_segmentation - INFO - 🎯 Segmentacja na utterances z wykrywaniem pauz...
+2025-08-30 22:33:19 - src.services.utterance_segmentation - INFO - 🔧 Utworzono 1 utterances z segmentów
+2025-08-30 22:33:19 - src.services.utterance_segmentation - INFO - 🔧 Optymalizacja: 1 → 1 utterances
+2025-08-30 22:33:19 - src.services.utterance_segmentation - INFO - 📊 Jakość segmentacji utterances: 25.0%
+2025-08-30 22:33:19 - src.services.word_level_sync - INFO - Tworzenie napisów na poziomie słów...
+2025-08-30 22:33:19 - src.services.word_level_sync - WARNING - ⚠️ Brak word-level timestamps - tworzę oszacowania z segmentów
+2025-08-30 22:33:19 - src.services.word_level_sync - INFO - Utworzono 1 segmentów na poziomie słów
+2025-08-30 22:33:19 - src.services.smooth_subtitle_renderer - INFO - Generowanie płynnych napisów w trybie: smooth_progressive
+2025-08-30 22:33:21 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmpq52wqt3e.mp4
+2025-08-30 22:33:21 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 22:33:33 - src.services.transcription_service - INFO - 🚀 Inicjalizacja TranscriptionService z najwyższą jakością AssemblyAI
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - 🚀 KONFIGURACJA ASSEMBLYAI - NAJWYŻSZA JAKOŚĆ TRANSKRYPCJI
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - ======================================================================
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - 
+🎯 Podstawowe funkcje wysokiej jakości
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - ✅ Word-level timestamps: Precyzyjne timestampy dla każdego słowa (dokładność do milisekund)
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - ✅ Speaker labels: Automatyczne wykrywanie i etykietowanie mówiących (Speaker Diarization)
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - ✅ Language detection: Automatyczne wykrywanie języka mówionego
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - ✅ Punctuate & format: Automatyczna interpunkcja i formatowanie tekstu
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - ✅ High boost: Wysoki poziom wzmocnienia jakości rozpoznawania
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - 
+🤖 Zaawansowane funkcje AI
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - ✅ Auto highlights: Automatyczne wyróżnianie kluczowych fragmentów i tematów
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - ✅ Auto chapters: Automatyczne tworzenie rozdziałów i segmentacja treści
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - ✅ Sentiment analysis: Analiza sentymentu wypowiedzi (pozytywny/negatywny/neutralny)
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - ✅ Entity detection: Wykrywanie encji (nazwy osób, miejsc, organizacji)
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - ✅ IAB categories: Kategoryzacja treści według standardu IAB (Interactive Advertising Bureau)
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - 
+🛡️ Bezpieczeństwo i jakość
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - ✅ Content safety: Wykrywanie potencjalnie niebezpiecznych treści
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - ✅ Audio quality optimization: Optymalizacja dla różnych jakości audio
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - ✅ Noise handling: Zaawansowane radzenie sobie z szumem tła
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - ✅ Multiple speakers: Obsługa wielu mówiących jednocześnie
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - 
+⚙️ Ustawienia precyzji
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - ✅ No profanity filter: Brak filtrowania wulgaryzmów dla maksymalnej dokładności
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - ✅ No PII redaction: Brak ukrywania danych osobowych dla pełnej transkrypcji
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - ✅ Single channel optimization: Optymalizacja dla pojedynczego kanału audio
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - ✅ High confidence threshold: Wysoki próg pewności dla lepszej jakości
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - 
+======================================================================
+2025-08-30 22:33:33 - src.utils.assemblyai_features_summary - INFO - 🎬 System gotowy do transkrypcji najwyższej jakości!
+2025-08-30 22:33:36 - src.services.transcription_service - INFO - 🚀 Inicjalizacja TranscriptionService z najwyższą jakością AssemblyAI
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - 🚀 KONFIGURACJA ASSEMBLYAI - NAJWYŻSZA JAKOŚĆ TRANSKRYPCJI
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - ======================================================================
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - 
+🎯 Podstawowe funkcje wysokiej jakości
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - ✅ Word-level timestamps: Precyzyjne timestampy dla każdego słowa (dokładność do milisekund)
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - ✅ Speaker labels: Automatyczne wykrywanie i etykietowanie mówiących (Speaker Diarization)
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - ✅ Language detection: Automatyczne wykrywanie języka mówionego
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - ✅ Punctuate & format: Automatyczna interpunkcja i formatowanie tekstu
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - ✅ High boost: Wysoki poziom wzmocnienia jakości rozpoznawania
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - 
+🤖 Zaawansowane funkcje AI
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - ✅ Auto highlights: Automatyczne wyróżnianie kluczowych fragmentów i tematów
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - ✅ Auto chapters: Automatyczne tworzenie rozdziałów i segmentacja treści
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - ✅ Sentiment analysis: Analiza sentymentu wypowiedzi (pozytywny/negatywny/neutralny)
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - ✅ Entity detection: Wykrywanie encji (nazwy osób, miejsc, organizacji)
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - ✅ IAB categories: Kategoryzacja treści według standardu IAB (Interactive Advertising Bureau)
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - 
+🛡️ Bezpieczeństwo i jakość
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - ✅ Content safety: Wykrywanie potencjalnie niebezpiecznych treści
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - ✅ Audio quality optimization: Optymalizacja dla różnych jakości audio
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - ✅ Noise handling: Zaawansowane radzenie sobie z szumem tła
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - ✅ Multiple speakers: Obsługa wielu mówiących jednocześnie
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - 
+⚙️ Ustawienia precyzji
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - ✅ No profanity filter: Brak filtrowania wulgaryzmów dla maksymalnej dokładności
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - ✅ No PII redaction: Brak ukrywania danych osobowych dla pełnej transkrypcji
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - ✅ Single channel optimization: Optymalizacja dla pojedynczego kanału audio
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - ✅ High confidence threshold: Wysoki próg pewności dla lepszej jakości
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - 
+======================================================================
+2025-08-30 22:33:36 - src.utils.assemblyai_features_summary - INFO - 🎬 System gotowy do transkrypcji najwyższej jakości!
+2025-08-30 22:33:37 - src.services.transcription_service - INFO - 🚀 Inicjalizacja TranscriptionService z najwyższą jakością AssemblyAI
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - 🚀 KONFIGURACJA ASSEMBLYAI - NAJWYŻSZA JAKOŚĆ TRANSKRYPCJI
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - ======================================================================
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - 
+🎯 Podstawowe funkcje wysokiej jakości
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - ✅ Word-level timestamps: Precyzyjne timestampy dla każdego słowa (dokładność do milisekund)
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - ✅ Speaker labels: Automatyczne wykrywanie i etykietowanie mówiących (Speaker Diarization)
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - ✅ Language detection: Automatyczne wykrywanie języka mówionego
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - ✅ Punctuate & format: Automatyczna interpunkcja i formatowanie tekstu
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - ✅ High boost: Wysoki poziom wzmocnienia jakości rozpoznawania
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - 
+🤖 Zaawansowane funkcje AI
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - ✅ Auto highlights: Automatyczne wyróżnianie kluczowych fragmentów i tematów
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - ✅ Auto chapters: Automatyczne tworzenie rozdziałów i segmentacja treści
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - ✅ Sentiment analysis: Analiza sentymentu wypowiedzi (pozytywny/negatywny/neutralny)
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - ✅ Entity detection: Wykrywanie encji (nazwy osób, miejsc, organizacji)
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - ✅ IAB categories: Kategoryzacja treści według standardu IAB (Interactive Advertising Bureau)
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - 
+🛡️ Bezpieczeństwo i jakość
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - ✅ Content safety: Wykrywanie potencjalnie niebezpiecznych treści
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - ✅ Audio quality optimization: Optymalizacja dla różnych jakości audio
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - ✅ Noise handling: Zaawansowane radzenie sobie z szumem tła
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - ✅ Multiple speakers: Obsługa wielu mówiących jednocześnie
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - 
+⚙️ Ustawienia precyzji
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - ✅ No profanity filter: Brak filtrowania wulgaryzmów dla maksymalnej dokładności
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - ✅ No PII redaction: Brak ukrywania danych osobowych dla pełnej transkrypcji
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - ✅ Single channel optimization: Optymalizacja dla pojedynczego kanału audio
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - ✅ High confidence threshold: Wysoki próg pewności dla lepszej jakości
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - 
+======================================================================
+2025-08-30 22:33:37 - src.utils.assemblyai_features_summary - INFO - 🎬 System gotowy do transkrypcji najwyższej jakości!
+2025-08-30 22:33:37 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmp6f7p2s9p.wav
+2025-08-30 22:33:37 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmp6f7p2s9p.wav
+2025-08-30 22:33:37 - src.services.transcription_service - ERROR - Błąd podczas transkrypcji: TranscriptionConfig.__init__() got an unexpected keyword argument 'multichannel'
+2025-08-30 22:33:37 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-30 22:33:38 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: PL
+2025-08-30 22:33:38 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 25 znaków
+2025-08-30 22:33:38 - src.services.translation_service - INFO - Czas tłumaczenia: 0.23s, Jakość: 0.88
+2025-08-30 22:33:38 - src.services.audio_sync_manager - INFO - Analizuję cechy audio: C:\Users\grims\AppData\Local\Temp\audio_tmp6f7p2s9p.wav
+2025-08-30 22:33:38 - src.services.audio_sync_manager - ERROR - Błąd analizy audio: name 'os' is not defined
+2025-08-30 22:33:38 - src.services.audio_sync_manager - INFO - Wykryto 0 segmentów mowy
+2025-08-30 22:33:38 - src.services.audio_sync_manager - WARNING - Brak segmentów do synchronizacji
+2025-08-30 22:33:38 - src.services.utterance_segmentation - INFO - 🎯 Segmentacja na utterances z wykrywaniem pauz...
+2025-08-30 22:33:38 - src.services.utterance_segmentation - INFO - 🔧 Utworzono 1 utterances z segmentów
+2025-08-30 22:33:38 - src.services.utterance_segmentation - INFO - 🔧 Optymalizacja: 1 → 1 utterances
+2025-08-30 22:33:38 - src.services.utterance_segmentation - INFO - 📊 Jakość segmentacji utterances: 25.0%
+2025-08-30 22:33:38 - src.services.word_level_sync - INFO - Tworzenie napisów na poziomie słów...
+2025-08-30 22:33:38 - src.services.word_level_sync - WARNING - ⚠️ Brak word-level timestamps - tworzę oszacowania z segmentów
+2025-08-30 22:33:38 - src.services.word_level_sync - INFO - Utworzono 1 segmentów na poziomie słów
+2025-08-30 22:33:38 - src.services.smooth_subtitle_renderer - INFO - Generowanie płynnych napisów w trybie: smooth_progressive
+2025-08-30 22:33:40 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmp6f7p2s9p.mp4
+2025-08-30 22:33:40 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 22:34:19 - src.services.transcription_service - INFO - 🚀 Inicjalizacja TranscriptionService z najwyższą jakością AssemblyAI
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - 🚀 KONFIGURACJA ASSEMBLYAI - NAJWYŻSZA JAKOŚĆ TRANSKRYPCJI
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - ======================================================================
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - 
+🎯 Podstawowe funkcje wysokiej jakości
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - ✅ Word-level timestamps: Precyzyjne timestampy dla każdego słowa (dokładność do milisekund)
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - ✅ Speaker labels: Automatyczne wykrywanie i etykietowanie mówiących (Speaker Diarization)
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - ✅ Language detection: Automatyczne wykrywanie języka mówionego
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - ✅ Punctuate & format: Automatyczna interpunkcja i formatowanie tekstu
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - ✅ High boost: Wysoki poziom wzmocnienia jakości rozpoznawania
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - 
+🤖 Zaawansowane funkcje AI
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - ✅ Auto highlights: Automatyczne wyróżnianie kluczowych fragmentów i tematów
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - ✅ Auto chapters: Automatyczne tworzenie rozdziałów i segmentacja treści
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - ✅ Sentiment analysis: Analiza sentymentu wypowiedzi (pozytywny/negatywny/neutralny)
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - ✅ Entity detection: Wykrywanie encji (nazwy osób, miejsc, organizacji)
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - ✅ IAB categories: Kategoryzacja treści według standardu IAB (Interactive Advertising Bureau)
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - 
+🛡️ Bezpieczeństwo i jakość
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - ✅ Content safety: Wykrywanie potencjalnie niebezpiecznych treści
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - ✅ Audio quality optimization: Optymalizacja dla różnych jakości audio
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - ✅ Noise handling: Zaawansowane radzenie sobie z szumem tła
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - ✅ Multiple speakers: Obsługa wielu mówiących jednocześnie
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - 
+⚙️ Ustawienia precyzji
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - ✅ No profanity filter: Brak filtrowania wulgaryzmów dla maksymalnej dokładności
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - ✅ No PII redaction: Brak ukrywania danych osobowych dla pełnej transkrypcji
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - ✅ Single channel optimization: Optymalizacja dla pojedynczego kanału audio
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - ✅ High confidence threshold: Wysoki próg pewności dla lepszej jakości
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - 
+======================================================================
+2025-08-30 22:34:19 - src.utils.assemblyai_features_summary - INFO - 🎬 System gotowy do transkrypcji najwyższej jakości!
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - 🚀 KONFIGURACJA ASSEMBLYAI - NAJWYŻSZA JAKOŚĆ TRANSKRYPCJI
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - ======================================================================
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - 
+🎯 Podstawowe funkcje wysokiej jakości
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - ✅ Word-level timestamps: Precyzyjne timestampy dla każdego słowa (dokładność do milisekund)
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - ✅ Speaker labels: Automatyczne wykrywanie i etykietowanie mówiących (Speaker Diarization)
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - ✅ Language detection: Automatyczne wykrywanie języka mówionego
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - ✅ Punctuate & format: Automatyczna interpunkcja i formatowanie tekstu
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - ✅ High boost: Wysoki poziom wzmocnienia jakości rozpoznawania
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - 
+🤖 Zaawansowane funkcje AI
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - ✅ Auto highlights: Automatyczne wyróżnianie kluczowych fragmentów i tematów
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - ✅ Auto chapters: Automatyczne tworzenie rozdziałów i segmentacja treści
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - ✅ Sentiment analysis: Analiza sentymentu wypowiedzi (pozytywny/negatywny/neutralny)
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - ✅ Entity detection: Wykrywanie encji (nazwy osób, miejsc, organizacji)
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - ✅ IAB categories: Kategoryzacja treści według standardu IAB (Interactive Advertising Bureau)
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - 
+🛡️ Bezpieczeństwo i jakość
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - ✅ Content safety: Wykrywanie potencjalnie niebezpiecznych treści
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - ✅ Audio quality optimization: Optymalizacja dla różnych jakości audio
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - ✅ Noise handling: Zaawansowane radzenie sobie z szumem tła
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - ✅ Multiple speakers: Obsługa wielu mówiących jednocześnie
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - 
+⚙️ Ustawienia precyzji
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - ✅ No profanity filter: Brak filtrowania wulgaryzmów dla maksymalnej dokładności
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - ✅ No PII redaction: Brak ukrywania danych osobowych dla pełnej transkrypcji
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - ✅ Single channel optimization: Optymalizacja dla pojedynczego kanału audio
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - ✅ High confidence threshold: Wysoki próg pewności dla lepszej jakości
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - 
+======================================================================
+2025-08-30 22:34:20 - src.utils.assemblyai_features_summary - INFO - 🎬 System gotowy do transkrypcji najwyższej jakości!
+2025-08-30 22:37:31 - src.services.transcription_service - INFO - 🚀 Inicjalizacja TranscriptionService z najwyższą jakością AssemblyAI
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - 🚀 KONFIGURACJA ASSEMBLYAI - NAJWYŻSZA JAKOŚĆ TRANSKRYPCJI
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - ======================================================================
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - 
+🎯 Podstawowe funkcje wysokiej jakości
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - ✅ Word-level timestamps: Precyzyjne timestampy dla każdego słowa (dokładność do milisekund)
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - ✅ Speaker labels: Automatyczne wykrywanie i etykietowanie mówiących (Speaker Diarization)
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - ✅ Language detection: Automatyczne wykrywanie języka mówionego
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - ✅ Punctuate & format: Automatyczna interpunkcja i formatowanie tekstu
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - ✅ High boost: Wysoki poziom wzmocnienia jakości rozpoznawania
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - 
+🤖 Zaawansowane funkcje AI
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - ✅ Auto highlights: Automatyczne wyróżnianie kluczowych fragmentów i tematów
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - ✅ Auto chapters: Automatyczne tworzenie rozdziałów i segmentacja treści
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - ✅ Sentiment analysis: Analiza sentymentu wypowiedzi (pozytywny/negatywny/neutralny)
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - ✅ Entity detection: Wykrywanie encji (nazwy osób, miejsc, organizacji)
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - ✅ IAB categories: Kategoryzacja treści według standardu IAB (Interactive Advertising Bureau)
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - 
+🛡️ Bezpieczeństwo i jakość
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - ✅ Content safety: Wykrywanie potencjalnie niebezpiecznych treści
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - ✅ Audio quality optimization: Optymalizacja dla różnych jakości audio
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - ✅ Noise handling: Zaawansowane radzenie sobie z szumem tła
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - ✅ Multiple speakers: Obsługa wielu mówiących jednocześnie
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - 
+⚙️ Ustawienia precyzji
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - ✅ No profanity filter: Brak filtrowania wulgaryzmów dla maksymalnej dokładności
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - ✅ No PII redaction: Brak ukrywania danych osobowych dla pełnej transkrypcji
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - ✅ Single channel optimization: Optymalizacja dla pojedynczego kanału audio
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - ✅ High confidence threshold: Wysoki próg pewności dla lepszej jakości
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - 
+======================================================================
+2025-08-30 22:37:31 - src.utils.assemblyai_features_summary - INFO - 🎬 System gotowy do transkrypcji najwyższej jakości!
+2025-08-30 22:37:33 - src.services.transcription_service - INFO - 🚀 Inicjalizacja TranscriptionService z najwyższą jakością AssemblyAI
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - 🚀 KONFIGURACJA ASSEMBLYAI - NAJWYŻSZA JAKOŚĆ TRANSKRYPCJI
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - ======================================================================
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - 
+🎯 Podstawowe funkcje wysokiej jakości
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - ✅ Word-level timestamps: Precyzyjne timestampy dla każdego słowa (dokładność do milisekund)
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - ✅ Speaker labels: Automatyczne wykrywanie i etykietowanie mówiących (Speaker Diarization)
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - ✅ Language detection: Automatyczne wykrywanie języka mówionego
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - ✅ Punctuate & format: Automatyczna interpunkcja i formatowanie tekstu
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - ✅ High boost: Wysoki poziom wzmocnienia jakości rozpoznawania
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - 
+🤖 Zaawansowane funkcje AI
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - ✅ Auto highlights: Automatyczne wyróżnianie kluczowych fragmentów i tematów
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - ✅ Auto chapters: Automatyczne tworzenie rozdziałów i segmentacja treści
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - ✅ Sentiment analysis: Analiza sentymentu wypowiedzi (pozytywny/negatywny/neutralny)
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - ✅ Entity detection: Wykrywanie encji (nazwy osób, miejsc, organizacji)
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - ✅ IAB categories: Kategoryzacja treści według standardu IAB (Interactive Advertising Bureau)
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - 
+🛡️ Bezpieczeństwo i jakość
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - ✅ Content safety: Wykrywanie potencjalnie niebezpiecznych treści
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - ✅ Audio quality optimization: Optymalizacja dla różnych jakości audio
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - ✅ Noise handling: Zaawansowane radzenie sobie z szumem tła
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - ✅ Multiple speakers: Obsługa wielu mówiących jednocześnie
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - 
+⚙️ Ustawienia precyzji
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - ✅ No profanity filter: Brak filtrowania wulgaryzmów dla maksymalnej dokładności
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - ✅ No PII redaction: Brak ukrywania danych osobowych dla pełnej transkrypcji
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - ✅ Single channel optimization: Optymalizacja dla pojedynczego kanału audio
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - ✅ High confidence threshold: Wysoki próg pewności dla lepszej jakości
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - 
+======================================================================
+2025-08-30 22:37:33 - src.utils.assemblyai_features_summary - INFO - 🎬 System gotowy do transkrypcji najwyższej jakości!
+2025-08-30 22:37:33 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmp815cqtng.wav
+2025-08-30 22:37:33 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmp815cqtng.wav
+2025-08-30 22:37:33 - src.services.transcription_service - ERROR - Błąd podczas transkrypcji: TranscriptionConfig.__init__() got an unexpected keyword argument 'multichannel'
+2025-08-30 22:37:33 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: EN
+2025-08-30 22:37:33 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: PL
+2025-08-30 22:37:33 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 26 znaków
+2025-08-30 22:37:33 - src.services.translation_service - INFO - Czas tłumaczenia: 0.29s, Jakość: 0.88
+2025-08-30 22:37:34 - src.services.audio_sync_manager - INFO - Analizuję cechy audio: C:\Users\grims\AppData\Local\Temp\audio_tmp815cqtng.wav
+2025-08-30 22:37:34 - src.services.audio_sync_manager - ERROR - Błąd analizy audio: name 'os' is not defined
+2025-08-30 22:37:34 - src.services.audio_sync_manager - INFO - Wykryto 0 segmentów mowy
+2025-08-30 22:37:34 - src.services.audio_sync_manager - WARNING - Brak segmentów do synchronizacji
+2025-08-30 22:37:34 - src.services.utterance_segmentation - INFO - 🎯 Segmentacja na utterances z wykrywaniem pauz...
+2025-08-30 22:37:34 - src.services.utterance_segmentation - INFO - 🔧 Utworzono 1 utterances z segmentów
+2025-08-30 22:37:34 - src.services.utterance_segmentation - INFO - 🔧 Optymalizacja: 1 → 1 utterances
+2025-08-30 22:37:34 - src.services.utterance_segmentation - INFO - 📊 Jakość segmentacji utterances: 25.0%
+2025-08-30 22:37:34 - src.services.word_level_sync - INFO - Tworzenie napisów na poziomie słów...
+2025-08-30 22:37:34 - src.services.word_level_sync - WARNING - ⚠️ Brak word-level timestamps - tworzę oszacowania z segmentów
+2025-08-30 22:37:34 - src.services.word_level_sync - INFO - Utworzono 1 segmentów na poziomie słów
+2025-08-30 22:37:34 - src.services.smooth_subtitle_renderer - INFO - Generowanie płynnych napisów w trybie: smooth_progressive
+2025-08-30 22:37:36 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmp815cqtng.mp4
+2025-08-30 22:37:36 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 22:43:24 - src.services.transcription_service - INFO - 🚀 Inicjalizacja TranscriptionService z najwyższą jakością AssemblyAI
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - 🚀 KONFIGURACJA ASSEMBLYAI - NAJWYŻSZA JAKOŚĆ TRANSKRYPCJI
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - ======================================================================
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - 
+🎯 Podstawowe funkcje wysokiej jakości
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - ✅ Word-level timestamps: Precyzyjne timestampy dla każdego słowa (dokładność do milisekund)
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - ✅ Speaker labels: Automatyczne wykrywanie i etykietowanie mówiących (Speaker Diarization)
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - ✅ Language detection: Automatyczne wykrywanie języka mówionego
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - ✅ Punctuate & format: Automatyczna interpunkcja i formatowanie tekstu
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - ✅ High boost: Wysoki poziom wzmocnienia jakości rozpoznawania
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - 
+🤖 Zaawansowane funkcje AI
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - ✅ Auto highlights: Automatyczne wyróżnianie kluczowych fragmentów i tematów
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - ✅ Auto chapters: Automatyczne tworzenie rozdziałów i segmentacja treści
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - ✅ Sentiment analysis: Analiza sentymentu wypowiedzi (pozytywny/negatywny/neutralny)
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - ✅ Entity detection: Wykrywanie encji (nazwy osób, miejsc, organizacji)
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - ✅ IAB categories: Kategoryzacja treści według standardu IAB (Interactive Advertising Bureau)
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - 
+🛡️ Bezpieczeństwo i jakość
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - ✅ Content safety: Wykrywanie potencjalnie niebezpiecznych treści
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - ✅ Audio quality optimization: Optymalizacja dla różnych jakości audio
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - ✅ Noise handling: Zaawansowane radzenie sobie z szumem tła
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - ✅ Multiple speakers: Obsługa wielu mówiących jednocześnie
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - 
+⚙️ Ustawienia precyzji
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - ✅ No profanity filter: Brak filtrowania wulgaryzmów dla maksymalnej dokładności
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - ✅ No PII redaction: Brak ukrywania danych osobowych dla pełnej transkrypcji
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - ✅ Single channel optimization: Optymalizacja dla pojedynczego kanału audio
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - ✅ High confidence threshold: Wysoki próg pewności dla lepszej jakości
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - 
+======================================================================
+2025-08-30 22:43:24 - src.utils.assemblyai_features_summary - INFO - 🎬 System gotowy do transkrypcji najwyższej jakości!
+2025-08-30 22:43:36 - src.services.transcription_service - INFO - 🚀 Inicjalizacja TranscriptionService z najwyższą jakością AssemblyAI
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - 🚀 KONFIGURACJA ASSEMBLYAI - NAJWYŻSZA JAKOŚĆ TRANSKRYPCJI
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - ======================================================================
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - 
+🎯 Podstawowe funkcje wysokiej jakości
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - ✅ Word-level timestamps: Precyzyjne timestampy dla każdego słowa (dokładność do milisekund)
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - ✅ Speaker labels: Automatyczne wykrywanie i etykietowanie mówiących (Speaker Diarization)
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - ✅ Language detection: Automatyczne wykrywanie języka mówionego
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - ✅ Punctuate & format: Automatyczna interpunkcja i formatowanie tekstu
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - ✅ High boost: Wysoki poziom wzmocnienia jakości rozpoznawania
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - 
+🤖 Zaawansowane funkcje AI
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - ✅ Auto highlights: Automatyczne wyróżnianie kluczowych fragmentów i tematów
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - ✅ Auto chapters: Automatyczne tworzenie rozdziałów i segmentacja treści
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - ✅ Sentiment analysis: Analiza sentymentu wypowiedzi (pozytywny/negatywny/neutralny)
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - ✅ Entity detection: Wykrywanie encji (nazwy osób, miejsc, organizacji)
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - ✅ IAB categories: Kategoryzacja treści według standardu IAB (Interactive Advertising Bureau)
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - 
+🛡️ Bezpieczeństwo i jakość
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - ✅ Content safety: Wykrywanie potencjalnie niebezpiecznych treści
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - ✅ Audio quality optimization: Optymalizacja dla różnych jakości audio
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - ✅ Noise handling: Zaawansowane radzenie sobie z szumem tła
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - ✅ Multiple speakers: Obsługa wielu mówiących jednocześnie
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - 
+⚙️ Ustawienia precyzji
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - ✅ No profanity filter: Brak filtrowania wulgaryzmów dla maksymalnej dokładności
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - ✅ No PII redaction: Brak ukrywania danych osobowych dla pełnej transkrypcji
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - ✅ Single channel optimization: Optymalizacja dla pojedynczego kanału audio
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - ✅ High confidence threshold: Wysoki próg pewności dla lepszej jakości
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - 
+======================================================================
+2025-08-30 22:43:36 - src.utils.assemblyai_features_summary - INFO - 🎬 System gotowy do transkrypcji najwyższej jakości!
+2025-08-30 22:43:41 - src.services.transcription_service - INFO - 🚀 Inicjalizacja TranscriptionService z najwyższą jakością AssemblyAI
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - 🚀 KONFIGURACJA ASSEMBLYAI - NAJWYŻSZA JAKOŚĆ TRANSKRYPCJI
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - ======================================================================
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - 
+🎯 Podstawowe funkcje wysokiej jakości
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - ✅ Word-level timestamps: Precyzyjne timestampy dla każdego słowa (dokładność do milisekund)
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - ✅ Speaker labels: Automatyczne wykrywanie i etykietowanie mówiących (Speaker Diarization)
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - ✅ Language detection: Automatyczne wykrywanie języka mówionego
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - ✅ Punctuate & format: Automatyczna interpunkcja i formatowanie tekstu
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - ✅ High boost: Wysoki poziom wzmocnienia jakości rozpoznawania
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - 
+🤖 Zaawansowane funkcje AI
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - ✅ Auto highlights: Automatyczne wyróżnianie kluczowych fragmentów i tematów
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - ✅ Auto chapters: Automatyczne tworzenie rozdziałów i segmentacja treści
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - ✅ Sentiment analysis: Analiza sentymentu wypowiedzi (pozytywny/negatywny/neutralny)
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - ✅ Entity detection: Wykrywanie encji (nazwy osób, miejsc, organizacji)
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - ✅ IAB categories: Kategoryzacja treści według standardu IAB (Interactive Advertising Bureau)
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - 
+🛡️ Bezpieczeństwo i jakość
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - ✅ Content safety: Wykrywanie potencjalnie niebezpiecznych treści
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - ✅ Audio quality optimization: Optymalizacja dla różnych jakości audio
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - ✅ Noise handling: Zaawansowane radzenie sobie z szumem tła
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - ✅ Multiple speakers: Obsługa wielu mówiących jednocześnie
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - 
+⚙️ Ustawienia precyzji
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - ✅ No profanity filter: Brak filtrowania wulgaryzmów dla maksymalnej dokładności
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - ✅ No PII redaction: Brak ukrywania danych osobowych dla pełnej transkrypcji
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - ✅ Single channel optimization: Optymalizacja dla pojedynczego kanału audio
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - ✅ High confidence threshold: Wysoki próg pewności dla lepszej jakości
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - 
+======================================================================
+2025-08-30 22:43:41 - src.utils.assemblyai_features_summary - INFO - 🎬 System gotowy do transkrypcji najwyższej jakości!
+2025-08-30 22:43:41 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmp0o3r8_xx.wav
+2025-08-30 22:43:41 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmp0o3r8_xx.wav
+2025-08-30 22:43:41 - src.services.transcription_service - ERROR - Błąd podczas transkrypcji: TranscriptionConfig.__init__() got an unexpected keyword argument 'multichannel'
+2025-08-30 22:43:41 - src.app - ERROR - Błąd podczas przetwarzania: Transkrypcja nie powiodła się: TranscriptionConfig.__init__() got an unexpected keyword argument 'multichannel'
+2025-08-30 22:43:41 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 22:44:49 - src.services.transcription_service - INFO - 🚀 Inicjalizacja TranscriptionService z najwyższą jakością AssemblyAI
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - 🚀 KONFIGURACJA ASSEMBLYAI - NAJWYŻSZA JAKOŚĆ TRANSKRYPCJI
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - ======================================================================
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - 
+🎯 Podstawowe funkcje wysokiej jakości
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - ✅ Word-level timestamps: Precyzyjne timestampy dla każdego słowa (dokładność do milisekund)
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - ✅ Speaker labels: Automatyczne wykrywanie i etykietowanie mówiących (Speaker Diarization)
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - ✅ Language detection: Automatyczne wykrywanie języka mówionego
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - ✅ Punctuate & format: Automatyczna interpunkcja i formatowanie tekstu
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - ✅ High boost: Wysoki poziom wzmocnienia jakości rozpoznawania
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - 
+🤖 Zaawansowane funkcje AI
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - ✅ Auto highlights: Automatyczne wyróżnianie kluczowych fragmentów i tematów
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - ✅ Auto chapters: Automatyczne tworzenie rozdziałów i segmentacja treści
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - ✅ Sentiment analysis: Analiza sentymentu wypowiedzi (pozytywny/negatywny/neutralny)
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - ✅ Entity detection: Wykrywanie encji (nazwy osób, miejsc, organizacji)
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - ✅ IAB categories: Kategoryzacja treści według standardu IAB (Interactive Advertising Bureau)
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - 
+🛡️ Bezpieczeństwo i jakość
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - ✅ Content safety: Wykrywanie potencjalnie niebezpiecznych treści
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - ✅ Audio quality optimization: Optymalizacja dla różnych jakości audio
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - ✅ Noise handling: Zaawansowane radzenie sobie z szumem tła
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - ✅ Multiple speakers: Obsługa wielu mówiących jednocześnie
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - 
+⚙️ Ustawienia precyzji
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - ✅ No profanity filter: Brak filtrowania wulgaryzmów dla maksymalnej dokładności
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - ✅ No PII redaction: Brak ukrywania danych osobowych dla pełnej transkrypcji
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - ✅ Single channel optimization: Optymalizacja dla pojedynczego kanału audio
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - ✅ High confidence threshold: Wysoki próg pewności dla lepszej jakości
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - 
+======================================================================
+2025-08-30 22:44:49 - src.utils.assemblyai_features_summary - INFO - 🎬 System gotowy do transkrypcji najwyższej jakości!
+2025-08-30 22:44:51 - src.services.transcription_service - INFO - 🚀 Inicjalizacja TranscriptionService z najwyższą jakością AssemblyAI
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - 🚀 KONFIGURACJA ASSEMBLYAI - NAJWYŻSZA JAKOŚĆ TRANSKRYPCJI
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - ======================================================================
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - 
+🎯 Podstawowe funkcje wysokiej jakości
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - ✅ Word-level timestamps: Precyzyjne timestampy dla każdego słowa (dokładność do milisekund)
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - ✅ Speaker labels: Automatyczne wykrywanie i etykietowanie mówiących (Speaker Diarization)
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - ✅ Language detection: Automatyczne wykrywanie języka mówionego
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - ✅ Punctuate & format: Automatyczna interpunkcja i formatowanie tekstu
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - ✅ High boost: Wysoki poziom wzmocnienia jakości rozpoznawania
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - 
+🤖 Zaawansowane funkcje AI
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - ✅ Auto highlights: Automatyczne wyróżnianie kluczowych fragmentów i tematów
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - ✅ Auto chapters: Automatyczne tworzenie rozdziałów i segmentacja treści
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - ✅ Sentiment analysis: Analiza sentymentu wypowiedzi (pozytywny/negatywny/neutralny)
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - ✅ Entity detection: Wykrywanie encji (nazwy osób, miejsc, organizacji)
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - ✅ IAB categories: Kategoryzacja treści według standardu IAB (Interactive Advertising Bureau)
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - 
+🛡️ Bezpieczeństwo i jakość
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - ✅ Content safety: Wykrywanie potencjalnie niebezpiecznych treści
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - ✅ Audio quality optimization: Optymalizacja dla różnych jakości audio
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - ✅ Noise handling: Zaawansowane radzenie sobie z szumem tła
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - ✅ Multiple speakers: Obsługa wielu mówiących jednocześnie
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - 
+⚙️ Ustawienia precyzji
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - ✅ No profanity filter: Brak filtrowania wulgaryzmów dla maksymalnej dokładności
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - ✅ No PII redaction: Brak ukrywania danych osobowych dla pełnej transkrypcji
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - ✅ Single channel optimization: Optymalizacja dla pojedynczego kanału audio
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - ✅ High confidence threshold: Wysoki próg pewności dla lepszej jakości
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - 
+======================================================================
+2025-08-30 22:44:51 - src.utils.assemblyai_features_summary - INFO - 🎬 System gotowy do transkrypcji najwyższej jakości!
+2025-08-30 22:44:52 - src.services.transcription_service - INFO - 🚀 Inicjalizacja TranscriptionService z najwyższą jakością AssemblyAI
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - 🚀 KONFIGURACJA ASSEMBLYAI - NAJWYŻSZA JAKOŚĆ TRANSKRYPCJI
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - ======================================================================
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - 
+🎯 Podstawowe funkcje wysokiej jakości
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - ✅ Word-level timestamps: Precyzyjne timestampy dla każdego słowa (dokładność do milisekund)
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - ✅ Speaker labels: Automatyczne wykrywanie i etykietowanie mówiących (Speaker Diarization)
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - ✅ Language detection: Automatyczne wykrywanie języka mówionego
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - ✅ Punctuate & format: Automatyczna interpunkcja i formatowanie tekstu
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - ✅ High boost: Wysoki poziom wzmocnienia jakości rozpoznawania
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - 
+🤖 Zaawansowane funkcje AI
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - ✅ Auto highlights: Automatyczne wyróżnianie kluczowych fragmentów i tematów
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - ✅ Auto chapters: Automatyczne tworzenie rozdziałów i segmentacja treści
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - ✅ Sentiment analysis: Analiza sentymentu wypowiedzi (pozytywny/negatywny/neutralny)
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - ✅ Entity detection: Wykrywanie encji (nazwy osób, miejsc, organizacji)
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - ✅ IAB categories: Kategoryzacja treści według standardu IAB (Interactive Advertising Bureau)
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - 
+🛡️ Bezpieczeństwo i jakość
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - ✅ Content safety: Wykrywanie potencjalnie niebezpiecznych treści
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - ✅ Audio quality optimization: Optymalizacja dla różnych jakości audio
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - ✅ Noise handling: Zaawansowane radzenie sobie z szumem tła
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - ✅ Multiple speakers: Obsługa wielu mówiących jednocześnie
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - 
+⚙️ Ustawienia precyzji
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - ✅ No profanity filter: Brak filtrowania wulgaryzmów dla maksymalnej dokładności
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - ✅ No PII redaction: Brak ukrywania danych osobowych dla pełnej transkrypcji
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - ✅ Single channel optimization: Optymalizacja dla pojedynczego kanału audio
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - ✅ High confidence threshold: Wysoki próg pewności dla lepszej jakości
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - 
+======================================================================
+2025-08-30 22:44:52 - src.utils.assemblyai_features_summary - INFO - 🎬 System gotowy do transkrypcji najwyższej jakości!
+2025-08-30 22:44:53 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmpplhemixb.wav
+2025-08-30 22:44:53 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmpplhemixb.wav
+2025-08-30 22:45:29 - src.services.transcription_service - INFO - Wykryto 210 słów z word-level timestamps
+2025-08-30 22:45:29 - src.services.transcription_service - INFO - ✅ Word-level timestamps są wysokiej jakości
+2025-08-30 22:45:29 - src.services.transcription_service - INFO - ✨ Wykryto 15 kluczowych fragmentów
+2025-08-30 22:45:29 - src.services.transcription_service - INFO - 😊 Przeanalizowano sentyment dla 32 fragmentów
+2025-08-30 22:45:29 - src.services.transcription_service - INFO - 🏷️ Wykryto 2 encji (nazwy, miejsca, organizacje)
+2025-08-30 22:45:29 - src.services.transcription_service - INFO - 📚 Utworzono 1 automatycznych rozdziałów
+2025-08-30 22:45:29 - src.services.transcription_service - INFO - 📂 Skategoryzowano treść według standardu IAB
+2025-08-30 22:45:29 - src.utils.assemblyai_features_summary - WARNING - ⚠️ Brak funkcji: Content safety
+2025-08-30 22:45:29 - src.services.transcription_service - INFO - ✅ Transkrypcja zakończona pomyślnie!
+2025-08-30 22:45:29 - src.services.transcription_service - INFO - 📊 Statystyki: 1080 znaków, 210 słów, 9 segmentów
+2025-08-30 22:45:29 - src.services.transcription_service - INFO - 🎯 Pewność: 97.5%, Czas: 35.7s
+2025-08-30 22:45:29 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-30 22:45:29 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-30 22:45:29 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 1089 znaków
+2025-08-30 22:45:29 - src.services.translation_service - INFO - Czas tłumaczenia: 0.71s, Jakość: 0.88
+2025-08-30 22:45:29 - src.services.audio_sync_manager - INFO - Analizuję cechy audio: C:\Users\grims\AppData\Local\Temp\audio_tmpplhemixb.wav
+2025-08-30 22:45:29 - src.services.audio_sync_manager - ERROR - Błąd analizy audio: name 'os' is not defined
+2025-08-30 22:45:30 - src.services.audio_sync_manager - INFO - Wykryto 0 segmentów mowy
+2025-08-30 22:45:30 - src.services.audio_sync_manager - WARNING - Brak segmentów do synchronizacji
+2025-08-30 22:45:30 - src.services.utterance_segmentation - INFO - 🎯 Segmentacja na utterances z wykrywaniem pauz...
+2025-08-30 22:45:30 - src.services.utterance_segmentation - INFO - 🔧 Utworzono 9 utterances z segmentów
+2025-08-30 22:45:30 - src.services.utterance_segmentation - INFO - 📊 Pauzy: średnia 1.40s, maksymalna 4.32s
+2025-08-30 22:45:30 - src.services.utterance_segmentation - INFO - 🔧 Optymalizacja: 9 → 17 utterances
+2025-08-30 22:45:30 - src.services.utterance_segmentation - INFO - 📊 Jakość segmentacji utterances: 81.7%
+2025-08-30 22:45:30 - src.services.word_level_sync - INFO - Tworzenie napisów na poziomie słów...
+2025-08-30 22:45:30 - src.services.word_level_sync - INFO - 🎯 Używam 210 precyzyjnych word-level timestamps z AssemblyAI
+2025-08-30 22:45:30 - src.services.word_level_sync - INFO - 🔧 Zoptymalizowano 210 word-level timestamps
+2025-08-30 22:45:30 - src.services.word_level_sync - INFO - ✅ Jakość word-level timestamps: 99.4%
+2025-08-30 22:45:30 - src.services.word_level_sync - INFO - Utworzono 32 segmentów na poziomie słów
+2025-08-30 22:45:30 - src.services.smooth_subtitle_renderer - INFO - Generowanie płynnych napisów w trybie: smooth_progressive
+2025-08-30 22:45:32 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmpplhemixb.mp4
+2025-08-30 22:45:32 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 22:54:01 - src.services.transcription_service - INFO - 🚀 Inicjalizacja TranscriptionService z najwyższą jakością AssemblyAI
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - 🚀 KONFIGURACJA ASSEMBLYAI - NAJWYŻSZA JAKOŚĆ TRANSKRYPCJI
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - ======================================================================
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - 
+🎯 Podstawowe funkcje wysokiej jakości
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - ✅ Word-level timestamps: Precyzyjne timestampy dla każdego słowa (dokładność do milisekund)
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - ✅ Speaker labels: Automatyczne wykrywanie i etykietowanie mówiących (Speaker Diarization)
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - ✅ Language detection: Automatyczne wykrywanie języka mówionego
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - ✅ Punctuate & format: Automatyczna interpunkcja i formatowanie tekstu
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - ✅ High boost: Wysoki poziom wzmocnienia jakości rozpoznawania
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - 
+🤖 Zaawansowane funkcje AI
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - ✅ Auto highlights: Automatyczne wyróżnianie kluczowych fragmentów i tematów
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - ✅ Auto chapters: Automatyczne tworzenie rozdziałów i segmentacja treści
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - ✅ Sentiment analysis: Analiza sentymentu wypowiedzi (pozytywny/negatywny/neutralny)
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - ✅ Entity detection: Wykrywanie encji (nazwy osób, miejsc, organizacji)
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - ✅ IAB categories: Kategoryzacja treści według standardu IAB (Interactive Advertising Bureau)
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - 
+🛡️ Bezpieczeństwo i jakość
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - ✅ Content safety: Wykrywanie potencjalnie niebezpiecznych treści
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - ✅ Audio quality optimization: Optymalizacja dla różnych jakości audio
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - ✅ Noise handling: Zaawansowane radzenie sobie z szumem tła
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - ✅ Multiple speakers: Obsługa wielu mówiących jednocześnie
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - 
+⚙️ Ustawienia precyzji
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - ✅ No profanity filter: Brak filtrowania wulgaryzmów dla maksymalnej dokładności
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - ✅ No PII redaction: Brak ukrywania danych osobowych dla pełnej transkrypcji
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - ✅ Single channel optimization: Optymalizacja dla pojedynczego kanału audio
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - ✅ High confidence threshold: Wysoki próg pewności dla lepszej jakości
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - 
+======================================================================
+2025-08-30 22:54:01 - src.utils.assemblyai_features_summary - INFO - 🎬 System gotowy do transkrypcji najwyższej jakości!
+2025-08-30 22:54:06 - src.services.transcription_service - INFO - 🚀 Inicjalizacja TranscriptionService z najwyższą jakością AssemblyAI
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - 🚀 KONFIGURACJA ASSEMBLYAI - NAJWYŻSZA JAKOŚĆ TRANSKRYPCJI
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - ======================================================================
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - 
+🎯 Podstawowe funkcje wysokiej jakości
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - ✅ Word-level timestamps: Precyzyjne timestampy dla każdego słowa (dokładność do milisekund)
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - ✅ Speaker labels: Automatyczne wykrywanie i etykietowanie mówiących (Speaker Diarization)
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - ✅ Language detection: Automatyczne wykrywanie języka mówionego
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - ✅ Punctuate & format: Automatyczna interpunkcja i formatowanie tekstu
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - ✅ High boost: Wysoki poziom wzmocnienia jakości rozpoznawania
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - 
+🤖 Zaawansowane funkcje AI
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - ✅ Auto highlights: Automatyczne wyróżnianie kluczowych fragmentów i tematów
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - ✅ Auto chapters: Automatyczne tworzenie rozdziałów i segmentacja treści
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - ✅ Sentiment analysis: Analiza sentymentu wypowiedzi (pozytywny/negatywny/neutralny)
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - ✅ Entity detection: Wykrywanie encji (nazwy osób, miejsc, organizacji)
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - ✅ IAB categories: Kategoryzacja treści według standardu IAB (Interactive Advertising Bureau)
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - 
+🛡️ Bezpieczeństwo i jakość
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - ✅ Content safety: Wykrywanie potencjalnie niebezpiecznych treści
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - ✅ Audio quality optimization: Optymalizacja dla różnych jakości audio
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - ✅ Noise handling: Zaawansowane radzenie sobie z szumem tła
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - ✅ Multiple speakers: Obsługa wielu mówiących jednocześnie
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - 
+⚙️ Ustawienia precyzji
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - ✅ No profanity filter: Brak filtrowania wulgaryzmów dla maksymalnej dokładności
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - ✅ No PII redaction: Brak ukrywania danych osobowych dla pełnej transkrypcji
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - ✅ Single channel optimization: Optymalizacja dla pojedynczego kanału audio
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - ✅ High confidence threshold: Wysoki próg pewności dla lepszej jakości
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - 
+======================================================================
+2025-08-30 22:54:06 - src.utils.assemblyai_features_summary - INFO - 🎬 System gotowy do transkrypcji najwyższej jakości!
+2025-08-30 22:54:07 - src.services.transcription_service - INFO - 🚀 Inicjalizacja TranscriptionService z najwyższą jakością AssemblyAI
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - 🚀 KONFIGURACJA ASSEMBLYAI - NAJWYŻSZA JAKOŚĆ TRANSKRYPCJI
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - ======================================================================
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - 
+🎯 Podstawowe funkcje wysokiej jakości
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - ✅ Word-level timestamps: Precyzyjne timestampy dla każdego słowa (dokładność do milisekund)
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - ✅ Speaker labels: Automatyczne wykrywanie i etykietowanie mówiących (Speaker Diarization)
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - ✅ Language detection: Automatyczne wykrywanie języka mówionego
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - ✅ Punctuate & format: Automatyczna interpunkcja i formatowanie tekstu
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - ✅ High boost: Wysoki poziom wzmocnienia jakości rozpoznawania
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - 
+🤖 Zaawansowane funkcje AI
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - ✅ Auto highlights: Automatyczne wyróżnianie kluczowych fragmentów i tematów
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - ✅ Auto chapters: Automatyczne tworzenie rozdziałów i segmentacja treści
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - ✅ Sentiment analysis: Analiza sentymentu wypowiedzi (pozytywny/negatywny/neutralny)
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - ✅ Entity detection: Wykrywanie encji (nazwy osób, miejsc, organizacji)
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - ✅ IAB categories: Kategoryzacja treści według standardu IAB (Interactive Advertising Bureau)
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - 
+🛡️ Bezpieczeństwo i jakość
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - ✅ Content safety: Wykrywanie potencjalnie niebezpiecznych treści
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - ✅ Audio quality optimization: Optymalizacja dla różnych jakości audio
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - ✅ Noise handling: Zaawansowane radzenie sobie z szumem tła
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - ✅ Multiple speakers: Obsługa wielu mówiących jednocześnie
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - 
+⚙️ Ustawienia precyzji
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - --------------------------------------------------
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - ✅ No profanity filter: Brak filtrowania wulgaryzmów dla maksymalnej dokładności
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - ✅ No PII redaction: Brak ukrywania danych osobowych dla pełnej transkrypcji
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - ✅ Single channel optimization: Optymalizacja dla pojedynczego kanału audio
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - ✅ High confidence threshold: Wysoki próg pewności dla lepszej jakości
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - 
+======================================================================
+2025-08-30 22:54:07 - src.utils.assemblyai_features_summary - INFO - 🎬 System gotowy do transkrypcji najwyższej jakości!
+2025-08-30 22:54:08 - src.services.video_processor - INFO - Audio wyekstraktowane do: C:\Users\grims\AppData\Local\Temp\audio_tmprz56pbi6.wav
+2025-08-30 22:54:08 - src.services.transcription_service - INFO - Rozpoczynam transkrypcję pliku: C:\Users\grims\AppData\Local\Temp\audio_tmprz56pbi6.wav
+2025-08-30 22:54:41 - src.services.transcription_service - INFO - Wykryto 210 słów z word-level timestamps
+2025-08-30 22:54:41 - src.services.transcription_service - INFO - ✅ Word-level timestamps są wysokiej jakości
+2025-08-30 22:54:41 - src.services.transcription_service - INFO - ✨ Wykryto 15 kluczowych fragmentów
+2025-08-30 22:54:41 - src.services.transcription_service - INFO - 😊 Przeanalizowano sentyment dla 32 fragmentów
+2025-08-30 22:54:41 - src.services.transcription_service - INFO - 🏷️ Wykryto 2 encji (nazwy, miejsca, organizacje)
+2025-08-30 22:54:41 - src.services.transcription_service - INFO - 📚 Utworzono 1 automatycznych rozdziałów
+2025-08-30 22:54:41 - src.services.transcription_service - INFO - 📂 Skategoryzowano treść według standardu IAB
+2025-08-30 22:54:41 - src.utils.assemblyai_features_summary - WARNING - ⚠️ Brak funkcji: Content safety
+2025-08-30 22:54:41 - src.services.transcription_service - INFO - ✅ Transkrypcja zakończona pomyślnie!
+2025-08-30 22:54:41 - src.services.transcription_service - INFO - 📊 Statystyki: 1080 znaków, 210 słów, 9 segmentów
+2025-08-30 22:54:41 - src.services.transcription_service - INFO - 🎯 Pewność: 97.5%, Czas: 33.1s
+2025-08-30 22:54:41 - src.services.translation_service - INFO - Rozpoczynam tłumaczenie na język: PL
+2025-08-30 22:54:42 - src.services.translation_service - INFO - Tłumaczenie zakończone. Wykryty język źródłowy: EN
+2025-08-30 22:54:42 - src.services.translation_service - INFO - Długość przetłumaczonego tekstu: 1089 znaków
+2025-08-30 22:54:42 - src.services.translation_service - INFO - Czas tłumaczenia: 0.79s, Jakość: 0.88
+2025-08-30 22:54:42 - src.services.audio_sync_manager - INFO - Analizuję cechy audio: C:\Users\grims\AppData\Local\Temp\audio_tmprz56pbi6.wav
+2025-08-30 22:54:42 - src.services.audio_sync_manager - ERROR - Błąd analizy audio: name 'os' is not defined
+2025-08-30 22:54:42 - src.services.audio_sync_manager - INFO - Wykryto 0 segmentów mowy
+2025-08-30 22:54:42 - src.services.audio_sync_manager - WARNING - Brak segmentów do synchronizacji
+2025-08-30 22:54:42 - src.services.utterance_segmentation - INFO - 🎯 Segmentacja na utterances z wykrywaniem pauz...
+2025-08-30 22:54:42 - src.services.utterance_segmentation - INFO - 🔧 Utworzono 9 utterances z segmentów
+2025-08-30 22:54:42 - src.services.utterance_segmentation - INFO - 📊 Pauzy: średnia 1.40s, maksymalna 4.32s
+2025-08-30 22:54:42 - src.services.utterance_segmentation - INFO - 🔧 Optymalizacja: 9 → 17 utterances
+2025-08-30 22:54:42 - src.services.utterance_segmentation - INFO - 📊 Jakość segmentacji utterances: 81.7%
+2025-08-30 22:54:42 - src.services.advanced_word_processor - INFO - 🚀 Rozpoczynam zaawansowane przetwarzanie word-level timestamps...
+2025-08-30 22:54:42 - src.services.advanced_word_processor - INFO - 🎯 Używam 210 precyzyjnych word-level timestamps
+2025-08-30 22:54:42 - src.services.advanced_word_processor - INFO - 📝 Wyciągnięto 210 słów z word-level timestamps
+2025-08-30 22:54:42 - src.services.advanced_word_processor - INFO - 🔧 Naprawiono 0 nakładających się segmentów
+2025-08-30 22:54:42 - src.services.advanced_word_processor - INFO - ✅ Naprawiono nakładające się segmenty
+2025-08-30 22:54:42 - src.services.advanced_word_processor - INFO - 📏 Dodano/poprawiono 160 przerw między słowami
+2025-08-30 22:54:42 - src.services.advanced_word_processor - INFO - ✅ Dodano minimalne przerwy między słowami (20ms)
+2025-08-30 22:54:42 - src.services.advanced_word_processor - INFO - ⏱️ Wydłużono 174 słów do minimalnej długości wyświetlania
+2025-08-30 22:54:42 - src.services.advanced_word_processor - INFO - ✅ Zastosowano minimalną długość wyświetlania słów (400ms)
+2025-08-30 22:54:42 - src.services.advanced_word_processor - INFO - 📦 Utworzono 6 stabilizowanych bloków z nakładaniem 100ms
+2025-08-30 22:54:42 - src.services.advanced_word_processor - INFO - ✅ Utworzono 6 stabilizowanych bloków (38 słów każdy)
+2025-08-30 22:54:42 - src.services.advanced_word_processor - INFO - ✅ Finalna walidacja: 6 bloków gotowych
+2025-08-30 22:54:42 - src.services.advanced_word_processor - INFO - ✅ Zakończono finalną optymalizację
+2025-08-30 22:54:42 - src.services.advanced_word_processor - INFO - 🎯 Przetwarzanie zakończone: 6 bloków gotowych
+2025-08-30 22:54:42 - src.services.smooth_subtitle_renderer - INFO - Generowanie płynnych napisów w trybie: smooth_progressive
+2025-08-30 22:54:44 - src.services.video_processor - INFO - Wideo z napisami utworzone: C:\Users\grims\AppData\Local\Temp\output_with_subs_tmprz56pbi6.mp4
+2025-08-30 22:54:44 - src.services.video_processor - ERROR - Błąd podczas pobierania informacji o wideo: ffprobe error (see stderr output for detail)
+2025-08-30 22:56:34 - src.services.advanced_word_processor - INFO - 🚀 Rozpoczynam zaawansowane przetwarzanie word-level timestamps...
+2025-08-30 22:56:34 - src.services.advanced_word_processor - INFO - 🎯 Używam 11 precyzyjnych word-level timestamps
+2025-08-30 22:56:34 - src.services.advanced_word_processor - INFO - 📝 Wyciągnięto 11 słów z word-level timestamps
+2025-08-30 22:56:34 - src.services.advanced_word_processor - INFO - 🔧 Naprawiono 1 nakładających się segmentów
+2025-08-30 22:56:34 - src.services.advanced_word_processor - INFO - ✅ Naprawiono nakładające się segmenty
+2025-08-30 22:56:34 - src.services.advanced_word_processor - INFO - 📏 Dodano/poprawiono 0 przerw między słowami
+2025-08-30 22:56:34 - src.services.advanced_word_processor - INFO - ✅ Dodano minimalne przerwy między słowami (20ms)
+2025-08-30 22:56:34 - src.services.advanced_word_processor - INFO - ⏱️ Wydłużono 6 słów do minimalnej długości wyświetlania
+2025-08-30 22:56:34 - src.services.advanced_word_processor - INFO - ✅ Zastosowano minimalną długość wyświetlania słów (400ms)
+2025-08-30 22:56:34 - src.services.advanced_word_processor - INFO - 📦 Utworzono 1 stabilizowanych bloków z nakładaniem 100ms
+2025-08-30 22:56:34 - src.services.advanced_word_processor - INFO - ✅ Utworzono 1 stabilizowanych bloków (38 słów każdy)
+2025-08-30 22:56:34 - src.services.advanced_word_processor - INFO - ✅ Finalna walidacja: 1 bloków gotowych
+2025-08-30 22:56:34 - src.services.advanced_word_processor - INFO - ✅ Zakończono finalną optymalizację
+2025-08-30 22:56:34 - src.services.advanced_word_processor - INFO - 🎯 Przetwarzanie zakończone: 1 bloków gotowych

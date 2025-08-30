@@ -27,6 +27,10 @@ class TranslationService:
         self.translator = deepl.Translator(api_key)
         self.api_key = api_key
         
+        # Inicjalizuj metryki jakości
+        self.translation_times = []
+        self.translation_quality_scores = []
+        
     def translate_text(self, text: str, target_language: str, source_language: Optional[str] = None, 
                       formality: str = 'default', preserve_formatting: bool = True) -> str:
         """
@@ -43,6 +47,7 @@ class TranslationService:
             Przetłumaczony tekst
         """
         try:
+            start_time = time.time()
             logger.info(f"Rozpoczynam tłumaczenie na język: {target_language}")
             
             # Mapowanie kodów języków DeepL
@@ -72,11 +77,20 @@ class TranslationService:
             # Wykonaj tłumaczenie
             result = self.translator.translate_text(text, **translate_params)
             
+            # Oblicz czas tłumaczenia i jakość
+            translation_time = time.time() - start_time
+            self.translation_times.append(translation_time)
+            
             translated_text = result.text
             detected_language = result.detected_source_lang
             
+            # Oszacuj jakość tłumaczenia
+            quality_score = self._estimate_translation_quality(text, translated_text, translation_time)
+            self.translation_quality_scores.append(quality_score)
+            
             logger.info(f"Tłumaczenie zakończone. Wykryty język źródłowy: {detected_language}")
             logger.info(f"Długość przetłumaczonego tekstu: {len(translated_text)} znaków")
+            logger.info(f"Czas tłumaczenia: {translation_time:.2f}s, Jakość: {quality_score:.2f}")
             
             return translated_text
             
@@ -99,35 +113,60 @@ class TranslationService:
             Lista przetłumaczonych segmentów
         """
         try:
+            start_time = time.time()
             logger.info(f"Rozpoczynam tłumaczenie {len(segments)} segmentów")
             
             translated_segments = []
+            failed_segments = []
             
             for i, segment in enumerate(segments):
                 if 'text' not in segment:
                     logger.warning(f"Segment {i} nie zawiera tekstu, pomijam")
                     continue
                 
-                # Przetłumacz tekst segmentu
-                translated_text = self.translate_text(
-                    segment['text'],
-                    target_language=target_language,
-                    source_language=source_language,
-                    formality=formality
-                )
-                
-                # Skopiuj segment z przetłumaczonym tekstem
-                translated_segment = segment.copy()
-                translated_segment['text'] = translated_text
-                translated_segment['original_text'] = segment['text']
-                
-                translated_segments.append(translated_segment)
+                try:
+                    # Przetłumacz tekst segmentu
+                    translated_text = self.translate_text(
+                        segment['text'],
+                        target_language=target_language,
+                        source_language=source_language,
+                        formality=formality
+                    )
+                    
+                    # Skopiuj segment z przetłumaczonym tekstem i dodatkowymi metrykami
+                    translated_segment = segment.copy()
+                    translated_segment['text'] = translated_text
+                    translated_segment['original_text'] = segment['text']
+                    translated_segment['translation_quality'] = self._estimate_translation_quality(
+                        segment['text'], translated_text, 0.1
+                    )
+                    translated_segment['target_language'] = target_language
+                    translated_segment['formality'] = formality
+                    translated_segment['segment_index'] = i
+                    
+                    translated_segments.append(translated_segment)
+                    
+                except Exception as e:
+                    logger.error(f"Błąd tłumaczenia segmentu {i}: {e}")
+                    failed_segments.append(i)
+                    
+                    # Dodaj segment z błędem
+                    error_segment = segment.copy()
+                    error_segment['translation_error'] = str(e)
+                    error_segment['text'] = segment['text']  # Zachowaj oryginalny tekst
+                    error_segment['translation_failed'] = True
+                    translated_segments.append(error_segment)
                 
                 # Dodaj małe opóźnienie aby nie przeciążyć API
                 if i < len(segments) - 1:
                     time.sleep(0.1)
             
-            logger.info(f"Przetłumaczono {len(translated_segments)} segmentów")
+            total_time = time.time() - start_time
+            logger.info(f"Przetłumaczono {len(translated_segments) - len(failed_segments)}/{len(segments)} segmentów w {total_time:.2f}s")
+            
+            if failed_segments:
+                logger.warning(f"Nieudane tłumaczenia segmentów: {failed_segments}")
+            
             return translated_segments
             
         except Exception as e:
@@ -268,3 +307,82 @@ class TranslationService:
         except Exception as e:
             logger.error(f"Błąd podczas sprawdzania statusu API DeepL: {e}")
             return False
+    
+    def _estimate_translation_quality(self, original_text: str, translated_text: str, translation_time: float) -> float:
+        """
+        Oszacuj jakość tłumaczenia na podstawie różnych metryk
+        
+        Args:
+            original_text: Tekst oryginalny
+            translated_text: Tekst przetłumaczony
+            translation_time: Czas tłumaczenia
+            
+        Returns:
+            Wynik jakości (0.0 - 1.0)
+        """
+        if not original_text or not translated_text:
+            return 0.0
+        
+        # Metryki jakości
+        quality_factors = []
+        
+        # 1. Stosunek długości (powinien być rozsądny)
+        length_ratio = len(translated_text) / len(original_text)
+        if 0.5 <= length_ratio <= 2.0:
+            quality_factors.append(0.9)
+        elif 0.3 <= length_ratio <= 3.0:
+            quality_factors.append(0.7)
+        else:
+            quality_factors.append(0.3)
+        
+        # 2. Obecność tekstu (nie pusty)
+        if translated_text.strip():
+            quality_factors.append(0.9)
+        else:
+            quality_factors.append(0.0)
+        
+        # 3. Czas tłumaczenia (szybsze = lepsze API response)
+        if translation_time < 2.0:
+            quality_factors.append(0.9)
+        elif translation_time < 5.0:
+            quality_factors.append(0.7)
+        else:
+            quality_factors.append(0.5)
+        
+        # 4. Zachowanie interpunkcji
+        original_punct = sum(1 for c in original_text if c in '.,!?;:')
+        translated_punct = sum(1 for c in translated_text if c in '.,!?;:')
+        
+        if original_punct > 0:
+            punct_ratio = translated_punct / original_punct
+            if 0.7 <= punct_ratio <= 1.3:
+                quality_factors.append(0.8)
+            else:
+                quality_factors.append(0.6)
+        else:
+            quality_factors.append(0.8)  # Brak interpunkcji to OK
+        
+        # Średnia ważona
+        return sum(quality_factors) / len(quality_factors) if quality_factors else 0.5
+    
+    def get_translation_statistics(self) -> Dict[str, Any]:
+        """
+        Pobierz statystyki tłumaczeń
+        
+        Returns:
+            Słownik ze statystykami
+        """
+        if not self.translation_times:
+            return {}
+        
+        import statistics
+        
+        return {
+            'total_translations': len(self.translation_times),
+            'average_time': statistics.mean(self.translation_times),
+            'min_time': min(self.translation_times),
+            'max_time': max(self.translation_times),
+            'average_quality': statistics.mean(self.translation_quality_scores) if self.translation_quality_scores else 0.0,
+            'min_quality': min(self.translation_quality_scores) if self.translation_quality_scores else 0.0,
+            'max_quality': max(self.translation_quality_scores) if self.translation_quality_scores else 0.0
+        }

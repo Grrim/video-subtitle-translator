@@ -27,17 +27,39 @@ class Config:
             'm4v', '3gp', 'ogv', 'ts', 'mts', 'm2ts'
         ]
         
-        # Ustawienia AssemblyAI
+        # Ustawienia AssemblyAI - NAJWYŻSZA JAKOŚĆ
         self.assemblyai_config = {
-            'language_detection': True,
-            'punctuate': True,
-            'format_text': True,
-            'speaker_labels': False,
-            'auto_chapters': False,
-            'entity_detection': False,
-            'sentiment_analysis': False,
-            'auto_highlights': False,
-            'content_safety': False
+            # Podstawowe ustawienia wysokiej jakości
+            'language_detection': True,          # Automatyczne wykrywanie języka
+            'punctuate': True,                   # Interpunkcja i formatowanie
+            'format_text': True,                 # Formatowanie tekstu
+            'speaker_labels': True,              # Etykiety mówiących (speaker diarization)
+            
+            # Word-level timestamps dla maksymalnej precyzji
+            'word_timestamps': True,             # Włącz word-level timestamps
+            'dual_channel': False,               # Dla lepszej precyzji timestampów
+            
+            # Dodatkowe funkcje poprawiające jakość
+            'auto_chapters': True,               # Automatyczne rozdziały
+            'entity_detection': True,            # Wykrywanie encji (nazwy, miejsca)
+            'sentiment_analysis': True,          # Analiza sentymentu
+            'auto_highlights': True,             # Automatyczne wyróżnienia
+            'content_safety': True,              # Filtrowanie treści
+            
+            # Ustawienia jakości audio
+            'filter_profanity': False,           # Nie filtruj wulgaryzmów (dla dokładności)
+            'redact_pii': False,                 # Nie ukrywaj danych osobowych
+            'redact_pii_audio': False,           # Nie ukrywaj w audio
+            
+            # Boost dla lepszej jakości
+            'word_boost': [],                    # Lista słów do wzmocnienia
+            'boost_param': 'high',               # Wysoki poziom wzmocnienia
+            
+            # Ustawienia modelu
+            'speech_model': 'best',              # Najlepszy dostępny model
+            'language_confidence_threshold': 0.7, # Próg pewności języka
+            'audio_start_from': 0,               # Start od początku
+            'audio_end_at': None,                # Do końca pliku
         }
         
         # Ustawienia DeepL
